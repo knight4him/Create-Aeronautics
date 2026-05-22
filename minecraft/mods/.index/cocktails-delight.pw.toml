@@ -1,0 +1,18 @@
+filename = 'Cocktails-Delight-1.21.1-NeoForge-1.1.7.jar'
+name = 'Cocktails Delight'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.7'
+
+[download]
+hash = 'edb13e0605d7ffc2ec27d9a4e1cab67957bc8ab6ff886e811aced7778b8c106692505e02eeba93e7e5189e04011d5d68c570cce5b12eb41b918326e488fb180e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hzcliQdE/versions/HX9wHN0y/Cocktails-Delight-1.21.1-NeoForge-1.1.7.jar'
+
+[update.modrinth]
+mod-id = 'hzcliQdE'
+version = 'HX9wHN0y'

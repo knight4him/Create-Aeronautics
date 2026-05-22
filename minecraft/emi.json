@@ -1,0 +1,21 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:minecraft:tall_grass",
+    "item:silentgear:crude_knife",
+    {
+      "type": "item",
+      "id": "farmersdelight:straw",
+      "amount": 5
+    },
+    "item:minecraft:wheat_seeds"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:actions/wall_run",
+        "parcool:actions/horizontal_wall_run",
+        "parcool:actions/catleap",
+        "parcool:actions/cling_to_cliff"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

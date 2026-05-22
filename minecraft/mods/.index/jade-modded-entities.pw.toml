@@ -1,0 +1,29 @@
+filename = 'jademoddedentities-neoforge-1.21.1-1.3.1.jar'
+name = 'Jade Modded Entities'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.3.1'
+
+[download]
+hash = '632a49e27bc2e5636e1b282f3c5db48f3955ca95b028ae9a376259708d897f6f5ff8e49492acdeb6cab4d02dc1efa2f517823130836fd95bcd32293dcc1cea3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GAJkSU0A/versions/uOr842aM/jademoddedentities-neoforge-1.21.1-1.3.1.jar'
+
+[update.modrinth]
+mod-id = 'GAJkSU0A'
+version = 'uOr842aM'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'Z43PTXn8'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oXgmplvv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'nvQzSEkH'
+type = 'REQUIRED'

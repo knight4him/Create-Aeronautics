@@ -1,0 +1,26 @@
+filename = 'antique_transport-1.2.1+1.21.1.jar'
+name = 'Antique Transport'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1'
+
+[download]
+hash = '296ae9fd693fbb5930aa734bfd17a54c01e7b4e77430975f3065cb595c91b5514412e2946b6eeb00f6e3ad3dcb5b9663dfba62163af2549e686291b844e3c922'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/KW2DN49D/versions/jEvRUhgA/antique_transport-1.2.1%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'KW2DN49D'
+version = 'jEvRUhgA'
+
+[[x-prismlauncher-dependencies]]
+addonId = '3KUWeVhG'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '4KjqhPc9'
+type = 'REQUIRED'
+version = 'egJBsDTn'

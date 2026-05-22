@@ -1,0 +1,51 @@
+filename = 'Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip'
+name = "Midnighttigger's Default Connected Textures Addons"
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.17',
+    '1.17.1',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'CG-NT-6'
+
+[download]
+hash = '9a63e1747ba7d0071e2b2853c48b2ed62477f6af66cce92788ba0665b65e2b1610f698ab94008e8e62d37846c7a6382a1e8094f41e167a7c459995b868c242d6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nVen30Ks/versions/SNNaGISv/Midnighttiggers-NT_CG-FCT-Default_1.17_V6.zip'
+
+[update.modrinth]
+mod-id = 'nVen30Ks'
+version = 'SNNaGISv'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'TjOXlt9Y'
+type = 'REQUIRED'

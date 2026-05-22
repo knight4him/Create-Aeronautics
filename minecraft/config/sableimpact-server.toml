@@ -1,0 +1,19 @@
+#Global multiplier applied to the synthetic impact force formula.
+#Higher values = more destructive collisions.
+# Default: 1.0
+# Range: 0.0 ~ 100.0
+impactMultiplier = 1.0
+#Fraction of inverse impulse applied when plowing through soft blocks (dirt, sand, leaves).
+#Lower values let the ship plow through with less speed loss.
+# Default: 0.1
+# Range: 0.0 ~ 1.0
+earthTrenchDrain = 0.1
+#Multiplier against block explosion resistance to compute the breaking threshold.
+#threshold = resistance * this value. Impacts below threshold only crack the block.
+# Default: 500.0
+# Range: 1.0 ~ 100000.0
+crackingThresholdMult = 500.0
+#Hard cap on Tier 4 (Catastrophe) explosion radius to prevent server freezes.
+# Default: 4.0
+# Range: 0.5 ~ 16.0
+maxExplosionRadius = 4.0

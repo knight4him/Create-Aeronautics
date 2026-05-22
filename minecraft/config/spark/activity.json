@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "knight4him",
+      "uniqueId": "e24fd804-78cc-4b63-8139-4ceb0fbd4f17"
+    },
+    "time": 1779408042077,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/YacxLXfHJO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "knight4him",
+      "uniqueId": "e24fd804-78cc-4b63-8139-4ceb0fbd4f17"
+    },
+    "time": 1779407809179,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cXRzn8KNyN"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "knight4him",
+      "uniqueId": "e24fd804-78cc-4b63-8139-4ceb0fbd4f17"
+    },
+    "time": 1779407677132,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/Dwy8ivU1lb"
+    }
+  }
+]

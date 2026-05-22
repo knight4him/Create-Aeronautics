@@ -1,0 +1,25 @@
+filename = 'dyeable_ropes-1.2.1.jar'
+name = 'Dyeable Ropes for Create Aeronautics'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.1'
+
+[download]
+hash = '8eb27c91a6a584c63490d9737c3483e27bdf77963f7ad21445e0e4cdf19718734e93ae1c8ab4267c782ae583a162b536ab538baf18348672e7feebd938cab710'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/dfrdhOy5/versions/lJQN1scE/dyeable_ropes-1.2.1.jar'
+
+[update.modrinth]
+mod-id = 'dfrdhOy5'
+version = 'lJQN1scE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
