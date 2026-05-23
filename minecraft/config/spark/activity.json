@@ -5,6 +5,19 @@
       "name": "knight4him",
       "uniqueId": "e24fd804-78cc-4b63-8139-4ceb0fbd4f17"
     },
+    "time": 1779493992409,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/276WUviioZ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "knight4him",
+      "uniqueId": "e24fd804-78cc-4b63-8139-4ceb0fbd4f17"
+    },
     "time": 1779408042077,
     "type": "Profiler (live)",
     "data": {

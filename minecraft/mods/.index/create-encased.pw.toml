@@ -1,34 +1,18 @@
-filename = 'Create Encased-1.21.1-1.8.1.jar'
+filename = 'Create Encased-1.21.1-1.8.1-ht1.jar'
 name = 'Create Encased'
-side = 'both'
+side = ''
+x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.1'
+x-prismlauncher-version-number = '1.8.1-ht1'
 
 [download]
-hash = 'b39ddfdae01122b47adba3445c3fed0731d489968d306a802a78c7e3980d571a2fdf1c55dcf61a6ecdebe7e0dc5c60f08905f3f2ba86a46c85f314bf40e684f7'
+hash = '9c4927dd65546a9b0700dc8547a71115dec56d32edb0c5f2fe38440408db33afa00313eb4d02ad3332d3fe269aae9e485bf3eda3a602821cb0a41ebeec16283a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hSSqdyU1/versions/5ZrKxCun/Create Encased-1.21.1-1.8.1.jar'
+url = 'https://cdn.modrinth.com/data/hSSqdyU1/versions/3sUW27Ho/Create Encased-1.21.1-1.8.1-ht1.jar'
 
 [update.modrinth]
 mod-id = 'hSSqdyU1'
-version = '5ZrKxCun'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'GmjmRQ0A'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'umyGl7zF'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-version = 'UjX6dr61'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'u6dRKJwZ'
-type = 'OPTIONAL'
+version = '3sUW27Ho'
