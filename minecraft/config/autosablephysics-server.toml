@@ -81,7 +81,7 @@ noCollisionBlocksCannotSupport = true
 #更严格的支撑判断：只有完整碰撞方块才默认提供支撑。默认关闭；开启后半砖、台阶、附魔台等非完整碰撞体会倾向于不承重。可用 autosablephysics:force_supporting 白名单覆盖。
 requireFullCollisionBlockForSupport = false
 #通用连接判断：无碰撞体方块默认不把自己与邻居连接为同一个物理体。开启后按钮、拉杆、花草、红石线等不会把结构粘连起来。可用 autosablephysics:force_connecting 白名单覆盖。
-noCollisionBlocksDoNotConnect = true
+noCollisionBlocksDoNotConnect = false
 #是否允许下落/物理相关逻辑压坏无碰撞且不可支撑的方块。该总开关会影响原版 FallingBlockEntity 压坏火把等逻辑；Sable sub-level 主动压坏另有 experimental 开关控制。
 crushNoCollisionSupports = true
 #是否允许已物理化且已经静止的 Sable sub-level 扫描自身全局 AABB，压坏重叠的无碰撞不可支撑方块，并把该区域登记为禁止放置无碰撞方块区域。0.2.9 起只在静止后执行，避免运动中修改世界导致 Rapier native panic。

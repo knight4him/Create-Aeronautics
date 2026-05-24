@@ -1,0 +1,404 @@
+# Master switch. When disabled, blocks will not automatically be assembled into Sable sub-levels.
+enabled = true
+
+# Delay in ticks after a block change before scanning.
+# Recommended at least 1 so vanilla/other mods finish block updates first.
+# Default: 1
+# Range: 0 ~ 200
+delayTicks = 1
+
+# Radius around the change center to search for candidate origins during automatic triggering.
+# Default was changed to 2 to avoid scanning overly large areas per block break.
+# Default: 2
+# Range: 1 ~ 32
+triggerRadius = 2
+
+# Radius used by /autosablephysics scan_here when no argument is provided.
+# Manual commands still perform full synchronous scanning; do not set too large.
+# Default: 4
+# Range: 1 ~ 64
+manualScanRadius = 4
+
+# Maximum Chebyshev radius expansion for connectivity search from a candidate origin.
+# Larger values detect bigger structures but increase performance cost.
+# Default: 12
+# Range: 4 ~ 128
+maxExpansionRadius = 12
+
+# Maximum number of blocks allowed in a single physics assembly.
+# Default was reduced to 512 to prevent long main-thread stalls on terrain scans.
+# Default: 512
+# Range: 1 ~ 256000
+maxBlocksPerAssembly = 512
+
+# Minimum size of a connected structure required to be physicalized.
+# Default: 1
+# Range: 1 ~ 256000
+minBlocksPerAssembly = 1
+
+# Override for affected-state system minimum assembly size.
+# Default: 1
+# Range: 1 ~ 256000
+autoAffectedMinBlocksPerAssembly = 1
+
+# Maximum number of candidate origins per scan task.
+# Default: 12
+# Range: 1 ~ 8192
+maxOriginsPerScan = 12
+
+# Maximum number of scan jobs processed per dimension per tick.
+# Default: 1
+# Range: 1 ~ 256
+maxJobsPerLevelTick = 1
+
+# Safety override for older configs with excessive job limits.
+# Default: 1
+# Range: 1 ~ 256
+autoMaxJobsPerLevelTick = 1
+
+# Cooldown before the same position can be queued again.
+# Default: 20
+# Range: 0 ~ 1200
+samePositionCooldownTicks = 20
+
+# Safety cap for automatic trigger radius.
+# Default: 2
+# Range: 1 ~ 32
+autoMaxTriggerRadius = 2
+
+# Safety cap for automatic expansion radius.
+# Default: 12
+# Range: 4 ~ 128
+autoMaxExpansionRadius = 12
+
+# Safety cap for automatic maximum block assembly size.
+# Default: 512
+# Range: 1 ~ 256000
+autoMaxBlocksPerAssembly = 512
+
+# Safety cap for automatic origin count per scan.
+# Default: 12
+# Range: 1 ~ 8192
+autoMaxOriginsPerScan = 12
+
+# Candidate origin must touch at least one air block.
+# Helps avoid scanning inside solid terrain.
+requireStartNearAir = true
+
+# Reject candidate origins that still have external bottom support.
+# Prevents scanning large terrain-connected structures.
+requireStartWithoutBottomSupport = true
+
+# Radius to skip nearby candidates after detecting oversized structures.
+# Default: 5
+# Range: 0 ~ 32
+tooLargeRejectRadius = 5
+
+# Allow direct neighbors of broken blocks to bypass bottom-support filter.
+relaxStartSupportForDirectBreakNeighbors = true
+
+# Maximum number of relaxed-filter neighbor origins.
+# Default: 6
+# Range: 0 ~ 6
+maxRelaxedBreakNeighborOrigins = 6
+
+# Only allow face-connected blocks for structure assembly.
+requireFaceContactForAutoAssembly = true
+
+# Blocks without collision cannot provide structural support.
+noCollisionBlocksCannotSupport = true
+
+# If enabled, only full-collision blocks provide support.
+# Default: false
+requireFullCollisionBlockForSupport = false
+
+# Blocks without collision do not connect structures together.
+noCollisionBlocksDoNotConnect = true
+
+# Allow physics to crush unsupported no-collision blocks.
+crushNoCollisionSupports = true
+
+# Allow stationary sub-levels to crush overlapping no-collision blocks.
+enableSubLevelCrushNoCollisionBlocks = true
+
+# Interval between crush scans.
+# Default: 20
+# Range: 1 ~ 1200
+subLevelCrushCheckIntervalTicks = 20
+
+# Required idle time before crush scanning becomes valid.
+# Default: 40
+# Range: 1 ~ 72000
+stationarySubLevelCrushIdleTicks = 40
+
+# Only scan sub-levels within this radius of players.
+# Default: 64
+# Range: 1 ~ 512
+subLevelCrushPlayerRadius = 64
+
+# Maximum blocks checked per crush scan.
+# Default: 4096
+# Range: 1 ~ 262144
+subLevelCrushMaxBlocksPerCheck = 4096
+
+# Extra AABB expansion applied during crush detection.
+# Default: 0.0625
+# Range: 0.0 ~ 1.0
+subLevelCrushAabbExpansion = 0.0625
+
+# Vanilla falling blocks can destroy unsupported no-collision blocks.
+vanillaFallingBlocksCrushNoCollision = true
+
+# Use vanilla falling block entity for single-block physics instead of sub-levels.
+singleBlockComponentsUseFalling = true
+
+# Require full external bottom support absence for assembly.
+requireNoExternalBottomSupport = true
+
+# Skip structures that touch scan boundaries.
+skipIfTouchesSearchBoundary = true
+
+# Allow BlockEntities to be moved by physics.
+allowBlockEntities = true
+
+# Scan for physics when placing blocks.
+triggerOnPlace = false
+
+# Enable fallback scanning for small isolated floating objects.
+enableSmallObjectFallback = true
+
+# Maximum block count for small-object fallback.
+# Default: 2
+# Range: 1 ~ 64
+smallObjectMaxBlocks = 2
+
+# Search radius for small-object fallback.
+# Default: 2
+# Range: 0 ~ 16
+smallObjectScanRadius = 2
+
+# Maximum candidate origins for small-object scans.
+# Default: 48
+# Range: 1 ~ 1024
+maxSmallObjectOriginsPerScan = 48
+
+# Allow small-object scan on placement even when full scan is disabled.
+triggerSmallObjectScanOnPlace = true
+
+# Ignore events inside already assembled sub-levels.
+ignoreEventsInsideSableSubLevels = true
+
+# Enable affected block tracking system.
+useAffectedBlockState = true
+
+# Radius marked as affected when breaking blocks.
+# Default: 2
+# Range: 0 ~ 16
+affectedRadiusOnBreak = 2
+
+# Radius marked as affected when placing blocks.
+# Default: 1
+# Range: 0 ~ 16
+affectedRadiusOnPlace = 1
+
+# Tree detection influence radius per trunk block.
+# Default: 5
+# Range: 0 ~ 32
+treeAffectedRadius = 5
+
+# Leaf search radius when tree loses support.
+# Default: 3
+# Range: 0 ~ 32
+treeLeafAssemblyRadius = 3
+
+# Maximum connected trunk blocks in tree scan.
+# Default: 1024
+# Range: 1 ~ 65536
+maxConnectedTreeTrunksPerScan = 1024
+
+# Maximum blocks allowed in tree physics assembly.
+# Default: 4096
+# Range: 1 ~ 262144
+maxTreeBlocksPerAssembly = 4096
+
+# Vertical expansion range for affected-region boundary scanning.
+# Default: 15
+# Range: 0 ~ 128
+affectedBoundaryVerticalRange = 15
+
+# Maximum affected region blocks processed per scan.
+# Default: 8192
+# Range: 1 ~ 262144
+maxAffectedRegionBlocksPerScan = 8192
+
+# Maximum boundary columns processed per scan.
+# Default: 512
+# Range: 1 ~ 65536
+maxAffectedBoundaryColumnsPerScan = 512
+
+# Maximum prepared candidate origins per scan.
+# Default: 2048
+# Range: 1 ~ 262144
+maxPreparedCandidatesPerScan = 2048
+
+# Asynchronously prepare affected-region candidates.
+asyncPrepareAffectedCandidates = true
+
+# Enable explosion event tracking (TNT, creepers, etc.).
+enableExplosionEvents = true
+
+# Maximum blocks marked per explosion.
+# Default: 256
+# Range: 1 ~ 8192
+maxExplosionBlocksToMark = 256
+
+# Enable piston movement tracking.
+enablePistonEvents = true
+
+# Maximum blocks tracked per piston event.
+# Default: 32
+# Range: 1 ~ 512
+maxPistonBlocksToMark = 32
+
+# Enable mob-based block destruction tracking.
+enableLivingDestroyBlockEvents = true
+
+# Track enderman block carrying behavior.
+enableEndermanCarryTracking = true
+
+# Track falling block entity creation.
+enableFallingBlockEvents = true
+
+# Track fluid-based block creation.
+enableFluidPlaceBlockEvents = true
+
+# Track farmland trampling events.
+enableFarmlandTrampleEvents = true
+
+# Track tool-based block modifications.
+enableToolModificationEvents = true
+
+# Disable neighbor physics event fallback (very high frequency).
+enableNeighborPhysicsEvents = false
+
+# Maximum neighbor event centers per tick.
+# Default: 8
+# Range: 1 ~ 256
+maxNeighborEventsPerTick = 8
+
+# Enable delayed assembly scheduling system.
+enableDelayedAssembly = true
+
+# Minimum ticks between sub-level creation.
+# Default: 8
+# Range: 0 ~ 1200
+minTicksBetweenAssemblies = 8
+
+# Maximum sub-level assemblies per tick.
+# Default: 1
+# Range: 1 ~ 32
+maxAssembliesPerLevelTick = 1
+
+# Require tracking confirmation before creating next sub-level.
+requireSableTrackingConfirmation = true
+
+# Minimum wait after tracking before next creation.
+# Default: 10
+# Range: 0 ~ 1200
+minSableSyncWaitTicks = 10
+
+# Warning threshold based on queue age.
+# Default: 200
+# Range: 0 ~ 72000
+pendingAssemblyWarningTicks = 200
+
+# Warning threshold based on queue size.
+# Default: 8
+# Range: 0 ~ 4096
+pendingAssemblyWarningSize = 8
+
+# Warning message interval.
+# Default: 200
+# Range: 20 ~ 72000
+pendingAssemblyWarningIntervalTicks = 200
+
+# Cancel pending assembly if structure reconnects.
+cancelPendingIfConnected = true
+
+# Cancel pending assembly if structure regains support.
+cancelPendingIfSupported = true
+
+# Extra stabilization delay for non-player events.
+# Default: 5
+# Range: 0 ~ 200
+nonPlayerEventStabilizationDelayTicks = 5
+
+# Track motion of created sub-levels.
+trackCreatedSubLevelMotion = true
+
+# Linear velocity threshold for stationary detection.
+# Default: 0.015
+# Range: 0.0 ~ 10.0
+restoreLinearSpeedThreshold = 0.015
+
+# Angular velocity threshold for stationary detection.
+# Default: 0.015
+# Range: 0.0 ~ 10.0
+restoreAngularSpeedThreshold = 0.015
+
+# Enable automatic restoration of physics objects.
+enableAutoRestoreSubLevels = true
+
+# Interval between position checks.
+# Default: 600
+# Range: 20 ~ 72000
+restorePositionCheckIntervalTicks = 600
+
+# Idle time before automatic restoration.
+# Default: 6000
+# Range: 20 ~ 720000
+restoreIdleTicksRequired = 6000
+
+# Position tolerance for motion detection.
+# Default: 0.025
+# Range: 0.0 ~ 2.0
+restorePositionEpsilon = 0.025
+
+# Maximum blocks allowed for auto-restore.
+# Default: 512
+# Range: 1 ~ 256000
+maxBlocksForAutoRestore = 512
+
+# Search radius for restoring blocks into empty space.
+# Default: 2
+# Range: 0 ~ 16
+restoreCollisionSearchRadius = 2
+
+# Enable fast restore when aligned to grid.
+enableGridAlignedFastRestore = true
+
+# Idle ticks required for grid fast restore.
+# Default: 600
+# Range: 20 ~ 72000
+gridAlignedRestoreIdleTicks = 600
+
+# Position alignment tolerance for grid detection.
+# Default: 0.0625
+# Range: 0.0 ~ 0.5
+gridAlignmentEpsilon = 0.0625
+
+# Angular tolerance for grid alignment.
+# Default: 0.05
+# Range: 0.0 ~ 3.14159
+gridAlignmentAngularEpsilon = 0.05
+
+# Enable debug logging.
+logDebug = false
+
+# Log scans exceeding threshold time.
+logSlowScans = true
+
+# Threshold in milliseconds for slow scan logging.
+# Default: 50
+# Range: 1 ~ 10000
+slowScanLogMillis = 50
