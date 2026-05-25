@@ -81,6 +81,13 @@
   "jademoddedentities": {
     "villager": true
   },
+  "dynamictrees": {
+    "rooty_water": true,
+    "pod": true,
+    "fruit": true,
+    "rooty": true,
+    "branch": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

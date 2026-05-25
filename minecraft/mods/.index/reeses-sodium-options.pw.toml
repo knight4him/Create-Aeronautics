@@ -17,12 +17,12 @@ mod-id = 'Bh37bMuy'
 version = 'xAiCe6w8'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'YL57xq9U'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = 'AANobbMI'
 type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'YL57xq9U'
+type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'PtjYWJkn'

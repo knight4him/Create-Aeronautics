@@ -172,14 +172,6 @@
     "maxWaterDepth": 24,
     "implosionChance": 0.8
   },
-  "aeroworks:gyroscope": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "aeroworks:joystick": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "alpinewhispers:alpine_gneiss": {
     "maxWaterDepth": 57,
     "implosionChance": 0.5233333
@@ -5220,138 +5212,6 @@
     "maxWaterDepth": 56,
     "implosionChance": 0.53333336
   },
-  "comforts:hammock_black": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_blue": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_brown": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_cyan": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_gray": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_green": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_light_blue": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_light_gray": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_lime": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_magenta": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_orange": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_pink": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_purple": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_red": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_white": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:hammock_yellow": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:rope_and_nail": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_black": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_blue": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_brown": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_cyan": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_gray": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_green": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_light_blue": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_lime": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_magenta": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_orange": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_pink": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_purple": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_red": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_white": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "comforts:sleeping_bag_yellow": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "copycats:copycat_base": {
     "maxWaterDepth": 86,
     "implosionChance": 0.28
@@ -8276,6 +8136,10 @@
     "maxWaterDepth": 39,
     "implosionChance": 0.67
   },
+  "create_connected:brass_chute": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
   "create_connected:brass_encased_cross_connector": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
@@ -8336,6 +8200,10 @@
     "maxWaterDepth": 39,
     "implosionChance": 0.67
   },
+  "create_connected:dashboard": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
   "create_connected:empty_fan_catalyst": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
@@ -8345,6 +8213,10 @@
     "implosionChance": 0.67
   },
   "create_connected:fan_blasting_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_chocolate_coating_catalyst": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
@@ -8360,7 +8232,15 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "create_connected:fan_exploding_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "create_connected:fan_freezing_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_glooming_catalyst": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
@@ -8368,7 +8248,23 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "create_connected:fan_honey_coating_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_purifying_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_resonance_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "create_connected:fan_sanding_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_sculking_catalyst": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
@@ -8380,7 +8276,15 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "create_connected:fan_soul_stripping_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
   "create_connected:fan_splashing_catalyst": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "create_connected:fan_transmutation_catalyst": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
@@ -8667,14 +8571,6 @@
   "create_jetpack:netherite_jetpack": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
-  },
-  "create_sa:brass_cube": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "create_sa:propeller_render_prop": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
   },
   "create_submarine:ballast_tank": {
     "maxWaterDepth": 230,
@@ -15995,6 +15891,1146 @@
   "drivebywire:tweaked_controller_hub": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
+  },
+  "dtru:acacia_twiglet_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:ashen_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:ashen_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:ashen_pine_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:bamboo_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:bamboo_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:bamboo_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:baobab_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:baobab_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:baobab_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:big_apple_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:blackwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:blackwood_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:blackwood_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:blackwood_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:blue_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_bioshroom_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_bioshroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_magnolia_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:blue_magnolia_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:brimwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:brimwood_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:brimwood_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:brimwood_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:cobalt_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:cobalt_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:cobalt_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:cypress_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:cypress_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:cypress_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:dead_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:dead_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:dead_pine_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:enchanted_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:enchanted_birch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:eucalyptus_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:eucalyptus_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:eucalyptus_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:eucalyptus_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:flowering_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:flowering_undergrowth_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:golden_larch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:golden_larch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:green_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:green_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:green_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:green_bioshroom_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:green_bioshroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:joshua_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:joshua_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:joshua_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:kapok_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:kapok_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:kapok_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:kapok_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:larch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:larch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:larch_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:larch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:magma_brimwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:magnolia_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:magnolia_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:magnolia_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:magnolia_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:maple_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:maple_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:maple_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:maple_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:mauve_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:mauve_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:mauve_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:mauve_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:mega_cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:mega_eucalyptus_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:mega_mauve_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:mega_pine_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:oak_poplar_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:oak_poplar_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:oak_twiglet_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:orange_maple_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:orange_maple_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:palm_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:palm_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:palm_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:pine_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:pine_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:pine_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:pine_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:pine_twiglet_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:pink_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_bioshroom_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_bioshroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_magnolia_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:pink_magnolia_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:red_maple_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:red_maple_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:redwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:redwood_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:redwood_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:redwood_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:reef_jungle_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:rooty_alpha_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_argillite": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_argillite_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_ashen_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_brimsprout_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_chalk": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_chalk_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_cobalt_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_deepslate_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_deepslate_prismoss": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_deepslate_viridescent_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_glistering_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_mossy_stone": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_mycotoxic_moss": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_overgrown_bone_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_peat_coarse_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_peat_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_peat_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_peat_mud": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_peat_podzol": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_prismoss": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_silt_coarse_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_silt_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_silt_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_silt_mud": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_silt_podzol": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_stone_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:rooty_viridescent_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:silver_birch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:silver_birch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:small_blue_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:small_blue_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:small_pink_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:small_pink_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:socotra_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:socotra_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:socotra_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:spruce_twiglet_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:stripped_bamboo_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_baobab_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_blackwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_blue_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_brimwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_cobalt_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_cypress_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_dead_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_eucalyptus_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_green_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_joshua_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_kapok_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_larch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_magnolia_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_maple_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_mauve_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_palm_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_pine_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_pink_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_redwood_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_silver_birch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_socotra_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_willow_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:stripped_yellow_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:twisting_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:white_magnolia_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:white_magnolia_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:willow_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:willow_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:willow_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:willow_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dtru:yellow_bioshroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dtru:yellow_bioshroom_cap": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:yellow_bioshroom_cap_center": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dtru:yellow_bioshroom_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dtru:yellow_bioshroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:acacia_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:acacia_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:acacia_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:apple": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:apple_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:azalea_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:azalea_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:birch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:birch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:cherry_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:cherry_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:cherry_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:cocoa": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:cocoa_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:crimson_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:crimson_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:crimson_wart": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:dark_oak_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:dark_oak_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:dark_oak_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:dark_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:flowering_azalea_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:jungle_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:jungle_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:jungle_root": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:jungle_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:jungle_undergrowth_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mangrove_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:mangrove_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mangrove_roots": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:mangrove_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mega_crimson_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mega_jungle_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mega_spruce_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:mega_warped_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:oak_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:oak_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:oak_undergrowth_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:potted_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:rooty_brown_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_clay": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_coarse_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_crimson_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_deepslate": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_end_stone": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_grass_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_gravel": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_light_gray_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_mangrove_aerial_roots": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_moss": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_moss_block": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_mud": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_mycelium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_netherrack": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_orange_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_podzol": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_red_sand": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_red_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_rooted_dirt": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_sand": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_soul_sand": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_soul_soil": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_stone": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_warped_nylium": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_water": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_white_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:rooty_yellow_terracotta": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:spruce_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:spruce_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:spruce_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:stripped_acacia_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_birch_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_cherry_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_crimson_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_dark_oak_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_jungle_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_mangrove_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_oak_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_spruce_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:stripped_warped_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:swamp_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:tall_birch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:trunk_shell": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:warped_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictrees:warped_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictrees:warped_wart": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:brown_mushroom_cap": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:brown_mushroom_cap_center": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:brown_mushroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:cactus_branch": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "dynamictreesplus:mushroom_branch": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictreesplus:pillar_cactus_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:pipe_cactus_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:red_mushroom_cap": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:red_mushroom_cap_center": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:red_mushroom_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:rooty_deepslate": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictreesplus:rooty_stone": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.81666666
+  },
+  "dynamictreesplus:saguaro_cactus_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "dynamictreesplus:saguaro_fruit": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
   },
   "extra_copycats:copycat_cabinet_door": {
     "maxWaterDepth": 86,
@@ -47495,110 +48531,6 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
-  },
-  "simulated_addition:acacia_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:acacia_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:ballasite": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "simulated_addition:bamboo_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:bamboo_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:birch_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:birch_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:cherry_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:cherry_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:crimson_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:crimson_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:dark_oak_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:dark_oak_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:directional_gyroscopic_propeller_bearing": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "simulated_addition:directional_propeller_bearing": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "simulated_addition:floatite": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "simulated_addition:jungle_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:jungle_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:mangrove_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:mangrove_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:oak_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:oak_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:spruce_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:spruce_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:warped_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "simulated_addition:warped_symmetric_sail": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
   },
   "tfmg:accumulator": {
     "maxWaterDepth": 86,

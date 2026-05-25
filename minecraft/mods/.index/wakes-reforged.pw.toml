@@ -1,18 +1,29 @@
-filename = 'wakes-1.21.1-NeoForge-1.2.1.jar'
+filename = 'wakes-1.21.1-NeoForge-1.3.2.jar'
 name = 'Wakes'
 side = ''
-x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.2.1'
+x-prismlauncher-version-number = '1.3.2'
 
 [download]
-hash = '4ea075779e687c3e1b8bfb76fda88468483a2a589bf77164b05d33ada4b841f50d51aa19ebf38547697b25e6d0453cbf44105425d6212458dbdb0386db87440b'
+hash = 'b040cfcd6a488be8302fb47e14a65380eaa7350580111b0365e0dafc042fd37f4c076a582b853aba3dbc988dfe856e66c53c69096256d7973fe27a410b9d235d'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/E0SdeAoH/versions/2id3P6Ya/wakes-1.21.1-NeoForge-1.2.1.jar'
+url = 'https://cdn.modrinth.com/data/E0SdeAoH/versions/B9t7ogWJ/wakes-1.21.1-NeoForge-1.3.2.jar'
 
 [update.modrinth]
 mod-id = 'E0SdeAoH'
-version = '2id3P6Ya'
+version = 'B9t7ogWJ'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'OPTIONAL'
