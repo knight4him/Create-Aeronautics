@@ -1040,6 +1040,10 @@
     "maxWaterDepth": 44,
     "implosionChance": 0.6333333
   },
+  "betterbeginnings:rock_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "bits_n_bobs:andesite_tile_slab": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
@@ -3270,210 +3274,6 @@
   },
   "bloomingnature:wild_sunflower": {
     "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:bar_counter": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:barrel_head_right": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:barrel_main": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:barrel_main_head": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:barrel_right": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_barley": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_haley": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_hops": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_mug": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_nettle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_oat": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:beer_wheat": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:bench": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:brew_oven": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "brewery:brew_timer": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "brewery:brew_whistle": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "brewery:brewery_banner": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "brewery:brewery_wall_banner": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "brewery:cabinet": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:copper_brewingstation": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "brewery:drawer": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:dried_barley": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "brewery:dried_corn": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "brewery:dried_oat": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "brewery:dried_wheat": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "brewery:dumplings": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:fried_chicken": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:gingerbread": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:half_chicken": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:hops_crop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:hops_crop_body": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:mashed_potatoes": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:netherite_brewingstation": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "brewery:patterned_carpet_block": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:patterned_wool": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "brewery:pork_knuckle": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:potato_salad": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "brewery:sideboard": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:table": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:wall_cabinet": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_ak": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_carrasconlabel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_cristelwalker": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_highland_hearth": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_jamesons_malt": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_jojannik": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_lilitusinglemalt": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_maggoallan": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:whiskey_smokey_reverie": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:wild_hops": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "brewery:wooden_brewingstation": {
-    "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
   "camping:enderbag": {
@@ -15892,1146 +15692,6 @@
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
-  "dtru:acacia_twiglet_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:ashen_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:ashen_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:ashen_pine_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:bamboo_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:bamboo_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:bamboo_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:baobab_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:baobab_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:baobab_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:big_apple_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:blackwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:blackwood_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:blackwood_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:blackwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:blue_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_bioshroom_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_bioshroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_magnolia_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:blue_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:brimwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:brimwood_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:brimwood_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:brimwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:cobalt_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:cobalt_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:cobalt_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:cypress_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:cypress_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:cypress_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:cypress_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:dead_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:dead_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:dead_pine_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:enchanted_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:eucalyptus_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:eucalyptus_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:eucalyptus_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:eucalyptus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:flowering_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:flowering_undergrowth_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:golden_larch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:golden_larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:green_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:green_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:green_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:green_bioshroom_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:green_bioshroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:joshua_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:joshua_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:joshua_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:kapok_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:kapok_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:kapok_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:kapok_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:larch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:larch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:larch_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:magma_brimwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:magnolia_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:magnolia_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:magnolia_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:maple_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:maple_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:mauve_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:mauve_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:mauve_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:mauve_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:mega_cypress_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:mega_eucalyptus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:mega_mauve_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:mega_pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:oak_poplar_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:oak_poplar_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:oak_twiglet_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:orange_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:orange_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:palm_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:palm_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:palm_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:pine_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:pine_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:pine_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:pine_twiglet_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:pink_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_bioshroom_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_bioshroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_magnolia_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:pink_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:red_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:red_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:redwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:redwood_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:redwood_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:redwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:reef_jungle_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:rooty_alpha_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_argillite": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_argillite_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_ashen_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_brimsprout_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_chalk": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_chalk_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_cobalt_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_deepslate_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_deepslate_prismoss": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_deepslate_viridescent_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_glistering_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_mossy_stone": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_mycotoxic_moss": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_overgrown_bone_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_peat_coarse_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_peat_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_peat_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_peat_mud": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_peat_podzol": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_prismoss": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_silt_coarse_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_silt_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_silt_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_silt_mud": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_silt_podzol": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_stone_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:rooty_viridescent_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:silver_birch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:silver_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:silver_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:small_blue_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:small_blue_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:small_pink_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:small_pink_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:socotra_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:socotra_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:socotra_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:spruce_twiglet_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:stripped_bamboo_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_baobab_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_blackwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_blue_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_brimwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_cobalt_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_cypress_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_dead_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_eucalyptus_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_green_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_joshua_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_kapok_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_larch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_magnolia_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_maple_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_mauve_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_palm_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_pine_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_pink_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_redwood_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_silver_birch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_socotra_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_willow_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:stripped_yellow_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:twisting_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:white_magnolia_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:white_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:willow_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:willow_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:willow_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:willow_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dtru:yellow_bioshroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dtru:yellow_bioshroom_cap": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:yellow_bioshroom_cap_center": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dtru:yellow_bioshroom_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dtru:yellow_bioshroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:acacia_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:acacia_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:acacia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:apple": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:apple_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:azalea_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:azalea_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:birch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:cherry_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:cherry_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:cherry_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:cocoa": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:cocoa_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:crimson_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:crimson_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:crimson_wart": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:dark_oak_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:dark_oak_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:dark_oak_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:dark_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:flowering_azalea_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:jungle_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:jungle_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:jungle_root": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:jungle_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:jungle_undergrowth_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mangrove_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:mangrove_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mangrove_roots": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:mangrove_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mega_crimson_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mega_jungle_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mega_spruce_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:mega_warped_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:oak_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:oak_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:oak_undergrowth_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:potted_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:rooty_brown_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_clay": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_coarse_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_crimson_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_deepslate": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_end_stone": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_grass_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_gravel": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_light_gray_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_mangrove_aerial_roots": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_moss": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_moss_block": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_mud": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_mycelium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_netherrack": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_orange_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_podzol": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_red_sand": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_red_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_rooted_dirt": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_sand": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_soul_sand": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_soul_soil": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_stone": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_warped_nylium": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_water": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_white_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:rooty_yellow_terracotta": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:spruce_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:spruce_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:spruce_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:stripped_acacia_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_birch_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_cherry_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_crimson_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_dark_oak_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_jungle_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_mangrove_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_oak_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_spruce_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:stripped_warped_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:swamp_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:tall_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:trunk_shell": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:warped_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictrees:warped_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictrees:warped_wart": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:brown_mushroom_cap": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:brown_mushroom_cap_center": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:brown_mushroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:cactus_branch": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "dynamictreesplus:mushroom_branch": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictreesplus:pillar_cactus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:pipe_cactus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:red_mushroom_cap": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:red_mushroom_cap_center": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:red_mushroom_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:rooty_deepslate": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictreesplus:rooty_stone": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81666666
-  },
-  "dynamictreesplus:saguaro_cactus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "dynamictreesplus:saguaro_fruit": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
   "extra_copycats:copycat_cabinet_door": {
     "maxWaterDepth": 86,
     "implosionChance": 0.28
@@ -17789,46 +16449,6 @@
     "implosionChance": 0.85
   },
   "furniture:cypress_wardrobe": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_bench": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_cabinet": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_clock": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_desk": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_desk_chair": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_dresser": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_grandfather_clock": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_mirror": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_shutter": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "furniture:dark_cherry_wardrobe": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -19240,42 +17860,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "hearth_and_timber:dark_cherry_beam": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_board": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_pillar": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_railing": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_shingle_slab": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_shingle_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_shingles": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_support": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "hearth_and_timber:dark_cherry_window_casing": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "hearth_and_timber:dark_oak_beam": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -20262,6 +18846,922 @@
   },
   "herbalbrews:yerba_mate_tea_block": {
     "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:barley_tea": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:biluochun": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:blaze_lamb_chop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:braised_fish": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:braised_pork_ribs": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:brown_mushroom_pot_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:buddha_jumps_over_the_wall": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:candied_potato": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_acacia": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_bamboo": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_birch": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_cherry": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_crimson": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_dark_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_jungle": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_mangrove": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_spruce": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chair_warped": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chili_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chili_ristra": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chopping_board": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:chorus_fried_egg": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cold_cut_ham_slices": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cold_roasted_meat": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cold_style_sashimi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_acacia": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_bamboo": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_birch": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_cherry": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_crimson": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_dark_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_jungle": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_mangrove": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_spruce": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:cook_stool_warped": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:crimson_fungus_pot_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:crystal_lamb_chop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:dark_cuisine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:desert_style_sashimi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:dongpo_pork": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:dough_drop_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:empty_cup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:enamel_basin": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:end_style_sashimi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:flower_tea": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fondant_pie": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fondant_spider_eye": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:four_joy_meatball_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fried_caterpillar": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fried_spring_roll": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:frost_lamb_chop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fruit_basket": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:fruit_platter": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:golden_salad": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:kitchenware_racks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:lettuce_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:millstone": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "kaleidoscope_cookery:nether_style_sashimi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:numbing_spicy_chicken": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:oil_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:oil_pot": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:oil_splashed_fish": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:oolong": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:pan_seared_knight_steak": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:pot": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "kaleidoscope_cookery:recipe_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:red_mushroom_pot_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:rice_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:sakura_fubuki": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:shawarma_spit": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.58
+  },
+  "kaleidoscope_cookery:shengjian_mantou": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:slime_ball_meal": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:spicy_blood_stew": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:spicy_chicken": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:spicy_rabbit_head": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:stargazy_pie": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:steamer": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:stockpot": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "kaleidoscope_cookery:stove": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.67
+  },
+  "kaleidoscope_cookery:straw_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:strung_mushrooms": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:stuffed_tiger_skin_pepper": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:suspicious_stir_fry": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:sweet_and_sour_ender_pearls": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_acacia": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_bamboo": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_birch": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_cherry": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_crimson": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_dark_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_jungle": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_mangrove": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_oak": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_spruce": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:table_warped": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:teapot": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:tieguanyin": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:tomato_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:trash_can": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.46
+  },
+  "kaleidoscope_cookery:tundra_style_sashimi": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:warped_fungus_pot_soup": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_cookery:yakitori": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:allium_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:azure_bluet_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:bar_cabinet": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:bar_counter": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:barrel": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:base_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:black_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:black_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:blue_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:blue_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:brandy": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:brown_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:brown_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:carignan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:chalkboard": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:champagne": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:cornflower_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:cr019_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:cyan_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:cyan_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:david_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:dragon_breath_bottle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:empty_bottle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:father_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:girl_with_pearl_earring_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:glass_bar_cabinet": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:glowflower_brew": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:gold_grape_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:gold_grapevine_trellis": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:grape_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:grapevine_trellis": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:grass_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:gray_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:gray_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:great_wave_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:green_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:green_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:honey_bottle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:honey_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:ice_grape_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:ice_grapevine_trellis": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:ice_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:light_blue_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:light_blue_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:light_gray_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:light_gray_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:lime_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:lime_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:luminous_bride": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:madame_shexiang": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:magenta_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:magenta_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:master_marisa_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:miners_star": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:molotov": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:mona_lisa_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:mondrian_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:mother_snow": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:orange_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:orange_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:orchid_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:peony_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:pink_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:pink_petals_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:pink_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:pitcher_plant_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:plum_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:polaris_sweet_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:poppy_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:pressing_tub": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:purple_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:purple_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:red_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:red_queen": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:red_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:riesling_dry_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:rum": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sakura_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sauvignon_blanc_dry_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sherry": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:son_of_man_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:starry_night_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:stepladder": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_black": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_blue": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_brown": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_colorless": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_cyan": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_gray": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_green": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_light_blue": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_light_gray": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_lime": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_magenta": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_orange": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_pink": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_purple": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_red": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_white": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:string_lights_yellow": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sunflower_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sunset_glow": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:sweet_berry_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:table": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:tap": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:tartaric_acid_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:torchflower_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:trellis": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:tulip_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:unknown_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:van_gogh_self_portrait_painting": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:vinegar": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:vodka": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:water_bottle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:watermelon_juice": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:whiskey": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:white_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:white_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:wild_grapevine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:wild_grapevine_plant": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:wither_rose_sandwich_board": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:yellow_bar_stool": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:yellow_sofa": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "kaleidoscope_tavern:ysbb_painting": {
+    "maxWaterDepth": 5,
     "implosionChance": 0.85
   },
   "lilis_lucky_lures:elastic_fishing_net": {
@@ -50523,542 +50023,6 @@
   "travelersbackpack:yellow_sleeping_bag": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
-  },
-  "vinery:acacia_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:acacia_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:acacia_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:acacia_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:aegis_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:apple_cider": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_press": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_tree_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:apple_wood": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:bamboo_lattice": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:bamboo_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:bamboo_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:bamboo_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:birch_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:birch_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:birch_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:birch_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:bolvar_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:bottle_mojang_noir": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:chenet_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:cherry_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:cherry_lattice": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:cherry_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:cherry_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:cherry_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:cherry_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:chorus_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:clark_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:coarse_dirt_slab": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "vinery:creepers_crush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:cristel_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_barrel": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_beam": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_big_table": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.78
-  },
-  "vinery:dark_cherry_button": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_cabinet": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_chair": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_door": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "vinery:dark_cherry_drawer": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_fence": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_fence_gate": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:dark_cherry_floorboard": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_hanging_sign": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_lattice": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:dark_cherry_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_pressure_plate": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_shelf": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_sign": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_slab": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_table": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_trapdoor": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "vinery:dark_cherry_wall_hanging_sign": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_wall_sign": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_cherry_wood": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_oak_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_oak_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_oak_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dark_oak_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:dirt_path_slab": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:dirt_slab": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "vinery:eiswein": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:fermentation_barrel": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "vinery:glowing_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:grapevine_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "vinery:grapevine_pot": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
-  },
-  "vinery:grapevine_stem": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:grass_slab": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:jellie_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:jo_special_mixture": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_grape_bush_red": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_grape_bush_white": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:jungle_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:kelp_cider": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:lilitu_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:magnetic_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:mangrove_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:mangrove_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:mangrove_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:mangrove_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:mead": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:mellohi_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:noir_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:oak_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:oak_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:oak_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:oak_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:potted_apple_tree_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:potted_dark_cherry_tree_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:red_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:red_grape_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:red_jungle_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:red_savanna_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:red_taiga_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:red_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:savanna_grape_bush_red": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:savanna_grape_bush_white": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:solaris_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:spruce_lattice": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:spruce_wine_rack_big": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:spruce_wine_rack_mid": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:spruce_wine_rack_small": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:stackable_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:stal_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:storage_pot": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "vinery:strad_wine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:stripped_dark_cherry_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:stripped_dark_cherry_wood": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "vinery:taiga_grape_bush_red": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:taiga_grape_bush_white": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:villagers_fright": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:vinery_standard": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:vinery_wall_standard": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "vinery:white_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:white_grape_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:white_jungle_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:white_savanna_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:white_taiga_grape_bag": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "vinery:window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:window_block": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "vinery:wine_box": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.74333334
   },
   "vsfluidlink:chain_connector": {
     "maxWaterDepth": 26,

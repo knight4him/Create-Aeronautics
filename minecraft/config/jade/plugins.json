@@ -78,15 +78,15 @@
     "entity": true,
     "entity_variant": true
   },
+  "kaleidoscope_cookery": {
+    "chopping_board": true,
+    "shawarma_spit": true,
+    "recipe_block": true,
+    "millstone": true,
+    "enamel_basin": true
+  },
   "jademoddedentities": {
     "villager": true
-  },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -98,6 +98,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "kaleidoscope_tavern": {
+    "barrel": true
   },
   "aspectalchemy": {
     "cauldron": true
