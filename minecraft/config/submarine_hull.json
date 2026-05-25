@@ -1040,10 +1040,6 @@
     "maxWaterDepth": 44,
     "implosionChance": 0.6333333
   },
-  "betterbeginnings:rock_block": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "bits_n_bobs:andesite_tile_slab": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
@@ -3274,6 +3270,210 @@
   },
   "bloomingnature:wild_sunflower": {
     "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:bar_counter": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:barrel_head_right": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:barrel_main": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:barrel_main_head": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:barrel_right": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_barley": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_haley": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_hops": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_mug": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_nettle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_oat": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:beer_wheat": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:bench": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:brew_oven": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "brewery:brew_timer": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "brewery:brew_whistle": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "brewery:brewery_banner": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "brewery:brewery_wall_banner": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "brewery:cabinet": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:copper_brewingstation": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "brewery:drawer": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:dried_barley": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "brewery:dried_corn": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "brewery:dried_oat": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "brewery:dried_wheat": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "brewery:dumplings": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:fried_chicken": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:gingerbread": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:half_chicken": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:hops_crop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:hops_crop_body": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:mashed_potatoes": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:netherite_brewingstation": {
+    "maxWaterDepth": 100,
+    "implosionChance": 0.05
+  },
+  "brewery:patterned_carpet_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:patterned_wool": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "brewery:pork_knuckle": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:potato_salad": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "brewery:sideboard": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:table": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:wall_cabinet": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_ak": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_carrasconlabel": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_cristelwalker": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_highland_hearth": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_jamesons_malt": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_jojannik": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_lilitusinglemalt": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_maggoallan": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:whiskey_smokey_reverie": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:wild_hops": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "brewery:wooden_brewingstation": {
+    "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
   "camping:enderbag": {
@@ -15692,6 +15892,10 @@
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
+  "exposure:lightroom": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
   "extra_copycats:copycat_cabinet_door": {
     "maxWaterDepth": 86,
     "implosionChance": 0.28
@@ -16449,6 +16653,46 @@
     "implosionChance": 0.85
   },
   "furniture:cypress_wardrobe": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_bench": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_cabinet": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_clock": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_desk": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_desk_chair": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_dresser": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_grandfather_clock": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_mirror": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_shutter": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "furniture:dark_cherry_wardrobe": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -17857,6 +18101,42 @@
     "implosionChance": 0.85
   },
   "hearth_and_timber:cypress_window_casing": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_beam": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_board": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_pillar": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_railing": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_shingle_slab": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_shingle_stairs": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_shingles": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_support": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "hearth_and_timber:dark_cherry_window_casing": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -50023,6 +50303,542 @@
   "travelersbackpack:yellow_sleeping_bag": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
+  },
+  "vinery:acacia_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:acacia_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:acacia_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:acacia_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:aegis_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:apple_cider": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_press": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_tree_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:apple_wood": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:bamboo_lattice": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:bamboo_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:bamboo_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:bamboo_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:birch_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:birch_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:birch_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:birch_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:bolvar_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:bottle_mojang_noir": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:chenet_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:cherry_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:cherry_lattice": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:cherry_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:cherry_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:cherry_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:cherry_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:chorus_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:clark_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:coarse_dirt_slab": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "vinery:creepers_crush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:cristel_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_barrel": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_beam": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_big_table": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
+  "vinery:dark_cherry_button": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_cabinet": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_chair": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_door": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "vinery:dark_cherry_drawer": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_fence": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_fence_gate": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:dark_cherry_floorboard": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_lattice": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:dark_cherry_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_planks": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_pressure_plate": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_shelf": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_sign": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_slab": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_stairs": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_table": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_trapdoor": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.7
+  },
+  "vinery:dark_cherry_wall_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_wall_sign": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_cherry_wood": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_oak_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_oak_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_oak_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dark_oak_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:dirt_path_slab": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:dirt_slab": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "vinery:eiswein": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:fermentation_barrel": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "vinery:glowing_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:grapevine_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "vinery:grapevine_pot": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.85
+  },
+  "vinery:grapevine_stem": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:grass_slab": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:jellie_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:jo_special_mixture": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_grape_bush_red": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_grape_bush_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:jungle_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:kelp_cider": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:lilitu_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:magnetic_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:mangrove_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:mangrove_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:mangrove_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:mangrove_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:mead": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:mellohi_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:noir_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:oak_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:oak_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:oak_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:oak_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:potted_apple_tree_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:potted_dark_cherry_tree_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:red_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:red_grape_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:red_jungle_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:red_savanna_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:red_taiga_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:red_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:savanna_grape_bush_red": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:savanna_grape_bush_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:solaris_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:spruce_lattice": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:spruce_wine_rack_big": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:spruce_wine_rack_mid": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:spruce_wine_rack_small": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:stackable_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:stal_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:storage_pot": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "vinery:strad_wine": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:stripped_dark_cherry_log": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:stripped_dark_cherry_wood": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "vinery:taiga_grape_bush_red": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:taiga_grape_bush_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:villagers_fright": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:vinery_standard": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:vinery_wall_standard": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "vinery:white_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:white_grape_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:white_jungle_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:white_savanna_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:white_taiga_grape_bag": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "vinery:window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:window_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "vinery:wine_box": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.74333334
   },
   "vsfluidlink:chain_connector": {
     "maxWaterDepth": 26,
