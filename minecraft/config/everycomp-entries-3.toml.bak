@@ -1,0 +1,144 @@
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+		[types.wood_type.silentgear]
+			netherwood = true
+
+		[types.wood_type.northstar]
+			wilter = true
+			argyre = true
+			coiler = true
+			calorian = true
+
+		[types.wood_type.vinery]
+			dark_cherry = true
+
+		[types.wood_type.alpinewhispers]
+			arolla_pine = true
+
+		[types.wood_type.beachparty]
+			palm = true
+
+		[types.wood_type.bloomingnature]
+			larch = true
+			baobab = true
+			swamp_oak = true
+			aspen = true
+			fan_palm = true
+			fir = true
+			swamp_cypress = true
+			ebony = true
+			chestnut = true
+			cypress = true
+
+		[types.wood_type.meadow]
+			pine = true
+
+		[types.wood_type.regions_unexplored]
+			alpha = true
+			baobab = true
+			blackwood = true
+			brimwood = true
+			cobalt = true
+			cypress = true
+			dead = true
+			eucalyptus = true
+			joshua = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			mauve = true
+			palm = true
+			pine = true
+			redwood = true
+			socotra = true
+			willow = true
+			pink_bioshroom = true
+			yellow_bioshroom = true
+			blue_bioshroom = true
+			green_bioshroom = true
+
+		[types.leaves_type.silentgear]
+			netherwood = true
+
+		[types.leaves_type.northstar]
+			wilter = true
+			argyre = true
+			coiler = true
+
+		[types.leaves_type.vinery]
+			grapevine = true
+			dark_cherry = true
+			apple = true
+
+		[types.leaves_type.alpinewhispers]
+			arolla_pine = true
+
+		[types.leaves_type.beachparty]
+			palm = true
+
+		[types.leaves_type.bloomingnature]
+			larch = true
+			baobab = true
+			orange = true
+			swamp_oak = true
+			aspen = true
+			fan_palm = true
+			fir = true
+			swamp_cypress = true
+			ebony = true
+			chestnut = true
+			cypress = true
+			blooming_oak = true
+
+		[types.leaves_type.meadow]
+			pine = true
+			yellow_pine = true
+			alpine_birch = true
+
+		[types.leaves_type.regions_unexplored]
+			alpha = true
+			apple_oak = true
+			ashen = true
+			bamboo = true
+			baobab = true
+			blackwood = true
+			blue_magnolia = true
+			brimwood = true
+			cypress = true
+			dead_pine = true
+			dead = true
+			enchanted_birch = true
+			eucalyptus = true
+			flowering = true
+			golden_larch = true
+			kapok = true
+			larch = true
+			magnolia = true
+			maple = true
+			mauve = true
+			orange_maple = true
+			palm = true
+			pine = true
+			pink_magnolia = true
+			red_maple = true
+			redwood = true
+			silver_birch = true
+			small_oak = true
+			socotra = true
+			white_magnolia = true
+			willow = true
+
+#Disables specific entries
+[entries]
+
+		[entries.wood_type.create]
+			window_pane = true
+			window = true
+
+		[entries.wood_type.regions_unexplored]
+			branch = true
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
