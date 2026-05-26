@@ -65,15 +65,15 @@ renderType = "AUTO"
 
 #Splash Plane Settings
 [splashPlane]
+	# Default: 3.0
+	# Range: -5.0 ~ 5.0
+	splashPlaneDepth = 1.0
 	# Default: 2.0
 	# Range: -5.0 ~ 5.0
 	splashPlaneWidth = 2.0
 	# Default: 1.5
 	# Range: -5.0 ~ 5.0
 	splashPlaneHeight = 1.5
-	# Default: 3.0
-	# Range: -5.0 ~ 5.0
-	splashPlaneDepth = 3.0
 	# Default: 0.0
 	# Range: -5.0 ~ 5.0
 	splashPlaneOffset = 0.0
