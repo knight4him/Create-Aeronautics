@@ -10,6 +10,7 @@ ServerEvents.recipes(event => {
   event.remove({output:'create:wheat_flour'}),
   event.remove({output:'kaleidoscope_cookery:raw_dough'}),
   event.remove({output:'create:dough'}),
+  event.remove({output:'powergrid:unetched_circut'}),
 
   event.replaceInput(
     {},
@@ -23,7 +24,168 @@ ServerEvents.recipes(event => {
     'create:dough',
     Ingredient.of('#c:dough')
   ),
+
   event.remove({input:'create:dough'}),
+  
+  event.custom({
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "powergrid:circuit_schematic"
+    },
+    "loops": 2,
+    "results": [
+      {
+        "chance": 100.0,
+        "id": "powergrid:unetched_circuit"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "item": "powergrid:empty_circuit"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "item": "farm_and_charm:dough"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "tag": "c:plates/copper"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      }
+    ],
+    "transitional_item": {
+      "id": "powergrid:incomplete_unetched_circuit"
+    }
+  }),
+
+  event.custom({
+    "type": "create:sequenced_assembly",
+    "ingredient": {
+      "item": "powergrid:circuit_schematic"
+    },
+    "loops": 2,
+    "results": [
+      {
+        "chance": 100.0,
+        "id": "powergrid:unetched_circuit"
+      }
+    ],
+    "sequence": [
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "item": "powergrid:empty_circuit"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "item": 'cornexpansion:corn_dough'
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:deploying",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          },
+          {
+            "tag": "c:plates/copper"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      },
+      {
+        "type": "create:pressing",
+        "ingredients": [
+          {
+            "item": "powergrid:incomplete_unetched_circuit"
+          }
+        ],
+        "results": [
+          {
+            "id": "powergrid:incomplete_unetched_circuit"
+          }
+        ]
+      }
+    ],
+    "transitional_item": {
+      "id": "powergrid:incomplete_unetched_circuit"
+    }
+  }),
 
   event.custom({
     "type": "create:cutting",
