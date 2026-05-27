@@ -1,0 +1,18 @@
+filename = 'simulatedextra-0.2.5-beta.jar'
+name = 'Simulated Extra'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.5-beta'
+
+[download]
+hash = 'bd7d2d536c12e4d46eccb97ae5352695ec40f6518d5026decc601453c892954fa3c4713e66a62073e10870884d633f40931d3cc681312a3751fd94eb5548274f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L064RU4O/versions/2mBED03K/simulatedextra-0.2.5-beta.jar'
+
+[update.modrinth]
+mod-id = 'L064RU4O'
+version = '2mBED03K'

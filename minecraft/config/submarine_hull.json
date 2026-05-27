@@ -172,6 +172,34 @@
     "maxWaterDepth": 24,
     "implosionChance": 0.8
   },
+  "aeronautics_utility_objects:brass_universal_joint": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:damping_stress_bearing": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:hydraulic_connection_head": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:hydraulic_hinge_head": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:hydraulic_hinge_link": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:hydraulic_regulator": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
+  "aeronautics_utility_objects:universal_joint": {
+    "maxWaterDepth": 93,
+    "implosionChance": 0.22
+  },
   "alpinewhispers:alpine_gneiss": {
     "maxWaterDepth": 57,
     "implosionChance": 0.5233333
@@ -9260,6 +9288,10 @@
     "maxWaterDepth": 52,
     "implosionChance": 0.56
   },
+  "create_aeronautics_toolgun:portable_structure_printer": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.725
+  },
   "create_bb:l_0100": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
@@ -15495,6 +15527,10 @@
   "drivebywire:tweaked_controller_hub": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
+  },
+  "drivebywiretypewriter:typewriter_hub": {
+    "maxWaterDepth": 19,
+    "implosionChance": 0.84
   },
   "everycomp:c/beachparty/palm_window": {
     "maxWaterDepth": 1,
@@ -25118,6 +25154,10 @@
   },
   "lilis_pottery:yellow_vase": {
     "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "mapcompass:navigator_table": {
+    "maxWaterDepth": 18,
     "implosionChance": 0.85
   },
   "meadow:alpine_birch_leaves": {
@@ -52983,6 +53023,14 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
+  },
+  "simulatedextra:centered_wheel_mount": {
+    "maxWaterDepth": 46,
+    "implosionChance": 0.615
+  },
+  "simulatedextra:linking_redstone_link": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
   },
   "stonezone:c/bloomingnature/cut_laterit": {
     "maxWaterDepth": 39,
