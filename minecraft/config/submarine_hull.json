@@ -20844,6 +20844,50 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "fluidlogistics:fluid_packager": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:fluid_pump": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:fluid_transporter": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:horizontal_multi_fluid_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:infinite_fluid_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:multi_fluid_access_port": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:multi_fluid_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:smart_faucet": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:smart_hopper": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:water_containing_copper_casing": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:waterproof_cardboard_block": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "furniture:acacia_bench": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
