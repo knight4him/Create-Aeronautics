@@ -18,6 +18,13 @@ ServerEvents.recipes(event => {
   ),
   event.remove({input:'kaleidoscope_cookery:raw_dough'}),
 
+  event.replaceInput(
+    {},
+    'create:dough',
+    Ingredient.of('#c:dough')
+  ),
+  event.remove({input:'create:dough'}),
+
   event.custom({
     "type": "create:cutting",
     "ingredients": [
