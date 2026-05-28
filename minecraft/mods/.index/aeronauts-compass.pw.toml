@@ -1,0 +1,18 @@
+filename = 'aeronautscompass-1.1.0.jar'
+name = "Aeronaut's Compass"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aeronautscompass-1.1.0.jar'
+
+[download]
+hash = 'bb10c904c6cfc5f4e15a4126cb519a78d52dc42e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8074616
+project-id = 1539399
