@@ -1,0 +1,29 @@
+filename = 'tracks_plus-1.0.4.jar'
+name = 'Create: Tracks+'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4'
+
+[download]
+hash = '8fc7de73f02907ccc9a9a6cd363bb43201b73fcc323a965250a0dbeab891a35cc58975f2aa1e6a5f48d6a85688d88e710b57a2678fa6a18c4a646b0450ce91c7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/E8eHF2Yl/versions/CGM0K9KX/tracks_plus-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'E8eHF2Yl'
+version = 'CGM0K9KX'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'T9PomCSv'
+type = 'REQUIRED'
