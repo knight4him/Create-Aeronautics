@@ -9,6 +9,10 @@
 	# Show stations on the atlas map
 	# default: true
 	showStations = true
+	# Width of tracks in blocks rendered on the atlas map
+	# range: 1 - 9
+	# default: 3
+	trackWidthBlocks = 3
 
 # Settings for Sable mod integration (sub-levels)
 [sable]
@@ -40,3 +44,7 @@
 	# range: 1 - 60
 	# default: 20
 	diagramFps = 20
+	# How often (in seconds) sublevels are scanned for auto-detection on the atlas map. Set to 0 to disable.
+	# range: 0 - 60
+	# default: 3
+	autoDetectIntervalSeconds = 3

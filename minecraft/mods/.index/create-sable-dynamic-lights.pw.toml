@@ -17,7 +17,7 @@ mod-id = 'eIsyUZG3'
 version = 'sKw2ERw2'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
+addonId = 'T9PomCSv'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -25,7 +25,7 @@ addonId = 'oWaK0Q19'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'T9PomCSv'
+addonId = 'PxQSWIcD'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
@@ -33,5 +33,5 @@ addonId = '4H6sumDB'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'PxQSWIcD'
+addonId = 'LNytGWDc'
 type = 'REQUIRED'
