@@ -1,0 +1,18 @@
+filename = 'proximitychat-1.21.1-NeoForge-1.2.1.jar'
+name = 'Proximity Chat'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'proximitychat-1.21.1-NeoForge-1.2.1.jar'
+
+[download]
+hash = '3124a73f6e8b06696ed12c79b99a5a35cdcbea0a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7676026
+project-id = 1166530

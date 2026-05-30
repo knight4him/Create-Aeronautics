@@ -200,6 +200,14 @@
     "maxWaterDepth": 93,
     "implosionChance": 0.22
   },
+  "aeroworks:gyroscope": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "aeroworks:joystick": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
   "alpinewhispers:alpine_gneiss": {
     "maxWaterDepth": 57,
     "implosionChance": 0.5233333
@@ -10155,10 +10163,6 @@
   "create_things_and_misc:warped_sail": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76
-  },
-  "create_tweaked_controllers:tweaked_lectern_controller": {
-    "maxWaterDepth": 18,
-    "implosionChance": 0.85
   },
   "createbigcannons:ap_shell": {
     "maxWaterDepth": 30,
@@ -53023,14 +53027,6 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
-  },
-  "simulatedextra:centered_wheel_mount": {
-    "maxWaterDepth": 46,
-    "implosionChance": 0.615
-  },
-  "simulatedextra:linking_redstone_link": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
   },
   "stonezone:c/bloomingnature/cut_laterit": {
     "maxWaterDepth": 39,
