@@ -1,5 +1,8 @@
 #Enables fluid transporter
 fluidTransporterEnabled = true
+#Enables basin capacity expansion
+#Requires restarting the game to fully apply
+basinCapacityExpansionEnabled = true
 #The maximum amount of fluid (in mB) a compressed tank can hold
 # Default: 10000
 # Range: 1000 ~ 10000
