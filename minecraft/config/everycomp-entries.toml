@@ -4,12 +4,6 @@
 		[types.wood_type.silentgear]
 			netherwood = true
 
-		[types.wood_type.northstar]
-			wilter = true
-			argyre = true
-			coiler = true
-			calorian = true
-
 		[types.wood_type.vinery]
 			dark_cherry = true
 
@@ -61,11 +55,6 @@
 
 		[types.leaves_type.silentgear]
 			netherwood = true
-
-		[types.leaves_type.northstar]
-			wilter = true
-			argyre = true
-			coiler = true
 
 		[types.leaves_type.vinery]
 			grapevine = true
@@ -211,12 +200,6 @@
 		[types.stone_type.regions_unexplored]
 			argillite = true
 			chalk = true
-
-		[types.stone_type.northstar]
-			mars_stone = true
-			moon_stone = true
-			venus_stone = true
-			mercury_stone = true
 
 		[types.stone_type.naturalist]
 			shellstone = true

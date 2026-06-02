@@ -34392,10 +34392,6 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
-  "cnbridge:dimensional_drive": {
-    "maxWaterDepth": 72,
-    "implosionChance": 0.4
-  },
   "cold_sweat:boiler": {
     "maxWaterDepth": 61,
     "implosionChance": 0.48666668
@@ -43640,38 +43636,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:c/northstar/argyre_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/argyre_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/calorian_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/calorian_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/coiler_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/coiler_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/wilter_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/northstar/wilter_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "everycomp:c/regions_unexplored/alpha_window": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -52830,2234 +52794,6 @@
   },
   "everycomp:ch/minecraft/woven_pale_oak_trapdoor": {
     "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/airy_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/airy_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/airy_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/airy_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/apple_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/apple_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/apple_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_barrel": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_crate": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_diamond_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_diamond_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_horizontal_lined_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_horizontal_lined_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_large_diamond_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_large_diamond_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_line_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_line_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_ornate_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_ornate_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_planks_mosaic": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_planks_panel": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_planks_shavings": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_snowflake_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_snowflake_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_woven_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/argyre_woven_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/barred_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/barred_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/barred_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/basket_woven_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/basket_woven_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/basket_woven_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/basket_woven_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/beach_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/beach_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/beach_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/beach_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boarded_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boarded_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/boarded_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boarded_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boxed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boxed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/boxed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/boxed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/brick_bond_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/brick_bond_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/brick_bond_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/brick_bond_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bricky_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bricky_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/bricky_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bricky_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bundled_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bundled_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/bundled_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/bundled_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_barrel": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/calorian_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_crate": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/calorian_diamond_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_diamond_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_horizontal_lined_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_horizontal_lined_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_large_diamond_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_large_diamond_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_line_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_line_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_ornate_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_ornate_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_planks_mosaic": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/calorian_planks_panel": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/calorian_planks_shavings": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/calorian_snowflake_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_snowflake_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_woven_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/calorian_woven_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/carved_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/carved_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/carved_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/center_cut_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/center_cut_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/center_cut_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/center_cut_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/checkered_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/checkered_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/checkered_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/checkered_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cherry_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cherry_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cherry_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/chipped_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/chipped_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/chipped_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_argyre_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_argyre_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_calorian_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_calorian_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_coiler_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_coiler_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_wilter_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/circle_wilter_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/classic_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_windowed_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_windowed_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/classic_windowed_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/classic_windowed_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cobweb_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cobweb_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/cobweb_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cobweb_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_barrel": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_crate": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_diamond_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_diamond_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_horizontal_lined_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_horizontal_lined_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_large_diamond_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_large_diamond_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_line_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_line_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_ornate_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_ornate_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_planks_mosaic": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_planks_panel": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_planks_shavings": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_snowflake_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_snowflake_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_woven_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/coiler_woven_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cornered_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cornered_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/cornered_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cornered_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crated_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crated_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/crated_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crated_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cross_laced_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cross_laced_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/cross_laced_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/cross_laced_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crossed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crossed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/crossed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/crossed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/d_sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/d_sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/d_sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/damaged_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/damaged_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/damaged_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/damaged_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dead_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dead_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dead_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/detailed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/detailed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/detailed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/detailed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diagonal_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diagonal_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/diagonal_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diagonal_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diamond_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diamond_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/diamond_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/diamond_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/distorted_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/distorted_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/distorted_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/distorted_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/double_herringbone_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/double_herringbone_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/double_herringbone_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/double_herringbone_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dual_paneled_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dual_paneled_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/dual_paneled_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/dual_paneled_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edge_cut_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edge_cut_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/edge_cut_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edge_cut_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edged_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edged_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/edged_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/enclosed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/enclosed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/enclosed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/enclosed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/f_sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/f_sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/f_sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fancy_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fancy_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/fancy_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fancy_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/fine_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_vertical_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_vertical_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/fine_vertical_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_vertical_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fine_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/firewood_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/firewood_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/firewood_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/firewood_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/flowering_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/flowering_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/flowering_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/flowering_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fortified_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fortified_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/fortified_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/fortified_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/framed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/framed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/framed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/framed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/frosted_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/frosted_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/frosted_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/gated_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/gated_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/gated_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/gated_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/glass_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/glass_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/glass_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/glass_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_apple_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_apple_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_apple_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_barred_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_barred_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/golden_barred_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_barred_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_cherry_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_cherry_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_cherry_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/golden_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/heavy_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/heavy_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/heavy_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/herringbone_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/herringbone_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/herringbone_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/herringbone_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/hewn_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/hewn_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/hewn_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/hewn_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/i_sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/i_sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/i_sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/iron_barred_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/iron_barred_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/iron_barred_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/iron_barred_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/k_sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/k_sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/k_sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/knotted_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/knotted_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/knotted_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/l_sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/l_sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/l_sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/laced_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/laced_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/laced_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/laced_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/layered_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/layered_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/layered_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/leafy_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/leafy_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/leafy_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/leafy_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/lumpy_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/lumpy_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/lumpy_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/magenta_flower_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/magenta_flower_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/magenta_flower_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/meshed_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/meshed_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/meshed_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/meshed_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/mixed_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/mixed_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/mixed_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/mixed_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/nailed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/nailed_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/nailed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/natural_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/natural_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/natural_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/natural_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/orange_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/orange_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/orange_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/overgrown_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/overgrown_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/overgrown_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/overgrown_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paneled_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paneled_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/paneled_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paneled_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paper_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paper_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/paper_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/paper_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/patient_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/patient_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/patient_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pegged_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pegged_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/pegged_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pegged_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/planked_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/planked_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/planked_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/planked_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pointless_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pointless_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/pointless_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pointless_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/polished_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/polished_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/polished_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/polished_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pressed_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pressed_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/pressed_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/pressed_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/railed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/railed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/railed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/railed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/red_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/red_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/red_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_argyre_crate": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_calorian_crate": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/reinforced_calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/reinforced_coiler_crate": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_wilter_crate": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/reinforced_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/screen_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/screen_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/screen_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/screen_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/secret_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/secret_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/secret_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/secret_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shack_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shack_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/shack_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shack_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shifted_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shifted_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/shifted_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/shifted_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sign_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sign_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sign_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slanted_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slanted_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/slanted_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slanted_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sliding_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sliding_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/sliding_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/sliding_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slotted_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slotted_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/slotted_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/slotted_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/smooth_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/smooth_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/smooth_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/smooth_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/solid_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/solid_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/solid_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/solid_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_argyre_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_argyre_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_calorian_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_calorian_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_coiler_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_coiler_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_wilter_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/square_wilter_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stacked_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stacked_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/stacked_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stacked_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stern_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stern_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/stern_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/supported_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/supported_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/supported_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/supported_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/suspicious_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/suspicious_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/suspicious_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/suspicious_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/thin_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/thin_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/thin_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/thin_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tile_windowed_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tile_windowed_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/tile_windowed_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tile_windowed_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/tiled_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/tiled_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/tiled_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/twisted_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/twisted_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/twisted_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/twisted_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/versailles_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/versailles_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/versailles_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/versailles_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertical_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertical_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/vertical_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertical_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertically_railed_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertically_railed_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/vertically_railed_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vertically_railed_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vined_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vined_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/vined_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/vined_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/warted_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/warted_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/warted_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/warted_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/whirlwind_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/whirlwind_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/whirlwind_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/whirlwind_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/white_flower_argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/white_flower_coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/white_flower_wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wickered_argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wickered_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:ch/northstar/wickered_coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wickered_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_barrel": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_crate": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_diamond_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_diamond_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_horizontal_lined_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_horizontal_lined_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_large_diamond_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_large_diamond_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_line_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_line_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_ornate_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_ornate_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_planks_mosaic": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_planks_panel": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_planks_shavings": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_snowflake_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_snowflake_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_woven_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wilter_woven_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_argyre_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_calorian_door": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/windowed_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/windowed_coiler_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_wilter_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/windowed_wilter_trapdoor": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wise_stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wise_stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/wise_stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/woven_argyre_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/woven_calorian_trapdoor": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "everycomp:ch/northstar/woven_coiler_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/northstar/woven_wilter_trapdoor": {
-    "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/airy_alpha_trapdoor": {
@@ -71460,434 +69196,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/northstar/argyre_barrel": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_beehive": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_chest": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_crafter": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_crafting_table": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_ladder": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_lantern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_lantern_block": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_lectern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_mosaic": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_mosaic_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_mosaic_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_panels": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_pillar": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_tile_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_tile_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/argyre_tiles": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/calorian_barrel": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_beehive": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_boards": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_bookshelf": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/calorian_chest": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_crafter": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_crafting_table": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_ladder": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/calorian_lantern": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_lantern_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_lectern": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_log_bundle": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_mosaic": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_mosaic_slab": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_mosaic_stairs": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_panels": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_pillar": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_tile_slab": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_tile_stairs": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/calorian_tiles": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/carved_argyre_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/carved_calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/carved_coiler_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/carved_wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/chiseled_argyre_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/chiseled_calorian_bookshelf": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/chiseled_coiler_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/chiseled_wilter_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_barrel": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_beehive": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_chest": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_crafter": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_crafting_table": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_ladder": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_lantern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_lantern_block": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_lectern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_mosaic": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_mosaic_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_mosaic_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_panels": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_pillar": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_tile_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_tile_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/coiler_tiles": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/smooth_argyre_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/smooth_calorian_boards": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/smooth_coiler_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/smooth_wilter_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/soul_argyre_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/soul_calorian_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/soul_coiler_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/soul_wilter_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/stripped_argyre_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/stripped_coiler_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/stripped_wilter_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/trapped_argyre_chest": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/trapped_calorian_chest": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "everycomp:crwo/northstar/trapped_coiler_chest": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/trapped_wilter_chest": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_barrel": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_beehive": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_boards": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_bookshelf": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_chest": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_crafter": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_crafting_table": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_ladder": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_lantern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_lantern_block": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_lectern": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_log_bundle": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_mosaic": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_mosaic_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_mosaic_stairs": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_panels": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_pillar": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_tile_slab": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_tile_stairs": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/northstar/wilter_tiles": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:crwo/regions_unexplored/alpha_barrel": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -74693,34 +72001,6 @@
     "implosionChance": 0.85
   },
   "everycomp:ru/minecraft/pale_oak_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/argyre_branch": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/argyre_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/calorian_branch": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/coiler_branch": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/coiler_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/wilter_branch": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ru/northstar/wilter_shrub": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -84632,1062 +81912,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "northstar:amethyst_crystal": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:argyre_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "northstar:argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:argyre_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:argyre_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:argyre_slab": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:argyre_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:astronomy_table": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76
-  },
-  "northstar:atmospheric_concentrator": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:auto_lander": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:biofuel": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:bloom_fungus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:bloom_fungus_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:bloom_fungus_stem_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:brine": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:budding_lunar_sapphire_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:calorian_log": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:calorian_planks": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:calorian_slab": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:calorian_stairs": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:chiseled_mars_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:chiseled_mercury_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:chiseled_moon_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:chiseled_venus_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:circuit_engraver": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "northstar:coiler_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_planks": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_slab": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_stairs": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:coiler_vines": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "northstar:combustion_engine": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:computer_rack": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:electrolysis_machine": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:extinguished_lantern": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.65
-  },
-  "northstar:extinguished_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:extinguished_torch_wall": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:frost": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "northstar:glowing_mars_roots": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "northstar:glowing_venus_vines": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "northstar:glowstone_lamp": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "northstar:glowstone_lantern": {
-    "maxWaterDepth": 42,
-    "implosionChance": 0.65
-  },
-  "northstar:glowstone_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:glowstone_torch_wall": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:hydrocarbon": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:ice_box": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:icicle": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.81
-  },
-  "northstar:insulated_vent": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46666667
-  },
-  "northstar:interplanetary_navigator": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:iron_cogwheel": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "northstar:iron_large_cogwheel": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "northstar:jet_engine": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "northstar:large_fan": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:large_lunar_sapphire_bud": {
-    "maxWaterDepth": 32,
-    "implosionChance": 0.73333335
-  },
-  "northstar:liquid_hydrogen": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:liquid_oxygen": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:lunar_sapphire_block": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:lunar_sapphire_cluster": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:lunar_sapphire_crystal": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:mars_copper_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_deep_copper_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:mars_deep_gold_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_iron_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_quartz_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_redstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_stone": {
-    "maxWaterDepth": 74,
-    "implosionChance": 0.37666667
-  },
-  "northstar:mars_deep_titanium_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_deep_zinc_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mars_farmland": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:mars_gold_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_gravel": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_iron_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_palm": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_quartz_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_redstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_roots": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_sand": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_soil": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:mars_sprout": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_sprout_big": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "northstar:mars_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_stone_brick_slab_vertical": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_stone_brick_stairs": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_stone_bricks": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_stone_lamp": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_stone_pillar": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mars_titanium_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mars_tulip": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_worm_nest": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "northstar:mars_zinc_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:martian_grass": {
-    "maxWaterDepth": 37,
-    "implosionChance": 0.69
-  },
-  "northstar:martian_steel_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:martian_steel_blue_lamp": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:martian_steel_grate": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:martian_steel_lamp": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:martian_steel_large_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_pillar": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_plating_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_plating_stairs": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_plating_vertical_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_sheetmetal": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_sheetmetal_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_steel_sheetmetal_vertical_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.16666667
-  },
-  "northstar:martian_strawberry_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:martian_tall_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:medium_lunar_sapphire_bud": {
-    "maxWaterDepth": 32,
-    "implosionChance": 0.73333335
-  },
-  "northstar:mercury_cactus": {
-    "maxWaterDepth": 56,
-    "implosionChance": 0.53333336
-  },
-  "northstar:mercury_copper_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_deep_copper_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:mercury_deep_glowstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_gold_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_iron_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_lapis_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_redstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_stone": {
-    "maxWaterDepth": 74,
-    "implosionChance": 0.37666667
-  },
-  "northstar:mercury_deep_titanium_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_deep_tungsten_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:mercury_deep_zinc_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:mercury_glowstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_gold_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_iron_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_lapis_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_redstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_shelf_fungus": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "northstar:mercury_shelf_fungus_block": {
-    "maxWaterDepth": 56,
-    "implosionChance": 0.53333336
-  },
-  "northstar:mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "northstar:mercury_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_stone_brick_slab_vertical": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_stone_brick_stairs": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_stone_bricks": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_stone_lamp": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "northstar:mercury_stone_pillar": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:mercury_titanium_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:mercury_tungsten_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:mercury_zinc_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:methane": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:methane_ice": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:monolithite": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:moon_copper_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_deep_copper_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:moon_deep_glowstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_gold_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_iron_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_lapis_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_redstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_stone": {
-    "maxWaterDepth": 74,
-    "implosionChance": 0.37666667
-  },
-  "northstar:moon_deep_titanium_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_deep_zinc_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:moon_glowstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_gold_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_iron_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_lapis_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_redstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_sand": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.7
-  },
-  "northstar:moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "northstar:moon_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_stone_brick_slab_vertical": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_stone_brick_stairs": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_stone_bricks": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_stone_lamp": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "northstar:moon_stone_pillar": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:moon_titanium_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:moon_zinc_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:oxygen_detector": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:oxygen_filler": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:oxygen_sealer": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:plate_fungus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:plate_fungus_cap_block": {
-    "maxWaterDepth": 56,
-    "implosionChance": 0.53333336
-  },
-  "northstar:plate_fungus_stem_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:pointed_crimsite": {
-    "maxWaterDepth": 83,
-    "implosionChance": 0.30333334
-  },
-  "northstar:polished_mars_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:polished_mercury_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:polished_moon_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:polished_venus_stone": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:rocket_controls": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:rocket_station": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:small_lunar_sapphire_bud": {
-    "maxWaterDepth": 32,
-    "implosionChance": 0.73333335
-  },
-  "northstar:solar_panel": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.67
-  },
-  "northstar:spike_fungus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:spike_fungus_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:stripped_argyre_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:stripped_coiler_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:stripped_wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:sulfuric_acid": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:tall_venus_mycelium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:telescope": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.2
-  },
-  "northstar:temperature_regulator": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:titanium_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:titanium_grate": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46666667
-  },
-  "northstar:titanium_pillar": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_plating": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_plating_slab": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_plating_stairs": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_plating_vertical_slab": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_sheetmetal": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_sheetmetal_slab": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_sheetmetal_vertical_slab": {
-    "maxWaterDepth": 80,
-    "implosionChance": 0.33333334
-  },
-  "northstar:titanium_space_door": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.28
-  },
-  "northstar:titanium_tetrachloride": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:tower_fungus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:tower_fungus_cap_block": {
-    "maxWaterDepth": 56,
-    "implosionChance": 0.53333336
-  },
-  "northstar:tower_fungus_stem_block": {
-    "maxWaterDepth": 48,
-    "implosionChance": 0.6
-  },
-  "northstar:tungsten_block": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:tungsten_grate": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.13333334
-  },
-  "northstar:tungsten_pillar": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_plating": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_plating_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_plating_stairs": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_plating_vertical_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_sheetmetal": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_sheetmetal_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:tungsten_sheetmetal_vertical_slab": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.06666667
-  },
-  "northstar:vent": {
-    "maxWaterDepth": 64,
-    "implosionChance": 0.46666667
-  },
-  "northstar:venus_coal_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_copper_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_deep_copper_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "northstar:venus_deep_glowstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_gold_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_iron_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_quartz_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_redstone_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_stone": {
-    "maxWaterDepth": 74,
-    "implosionChance": 0.37666667
-  },
-  "northstar:venus_deep_titanium_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_deep_zinc_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_diamond_ore": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.12
-  },
-  "northstar:venus_glowstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_gold_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_gravel": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:venus_iron_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_plume": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "northstar:venus_quartz_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_redstone_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "northstar:venus_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_stone_brick_slab_vertical": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_stone_brick_stairs": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_stone_bricks": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_stone_lamp": {
-    "maxWaterDepth": 15,
-    "implosionChance": 0.85
-  },
-  "northstar:venus_stone_pillar": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "northstar:venus_titanium_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:venus_vines": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "northstar:venus_zinc_ore": {
-    "maxWaterDepth": 96,
-    "implosionChance": 0.19333333
-  },
-  "northstar:volcanic_ash": {
-    "maxWaterDepth": 11,
-    "implosionChance": 0.85
-  },
-  "northstar:volcanic_rock": {
-    "maxWaterDepth": 32,
-    "implosionChance": 0.73333335
-  },
-  "northstar:wilter_leaves": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "northstar:wilter_log": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:wilter_planks": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "northstar:wilter_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "northstar:wilter_slab": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "northstar:wilter_stairs": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "offroad:borehead_bearing": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
@@ -86083,6 +82307,1370 @@
   "powergrid:wire_connector": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
+  },
+  "railways:big_buffer": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:black_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:blue_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:brown_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:buffer": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_mono": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_narrow": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:buffer_wide": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:casing_collision": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:conductor_vent": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
+  "railways:conductor_whistle": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:copycat_headstock": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:copycat_headstock_bars": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "railways:cyan_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:cyan_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:doubleaxle_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:fuel_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:generic_crossing": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:gray_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:gray_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:green_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:handcar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:headstock": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:invisible_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:invisible_mono_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_10_0": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_12_0": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_4_0": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_6_0": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_create_styled_0_8_0": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:large_platform_doubleaxle_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_blue_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:light_gray_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:lime_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:link_and_pin": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:magenta_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_2_0_2_trailing": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_4_0_4_trailing": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_quadruple_wheel": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_quintuple_wheel": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:medium_triple_wheel": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:mono_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_double_scotch_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_scotch_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:narrow_small_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:orange_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:pink_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:portable_fuel_interface": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:purple_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:red_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:semaphore": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:singleaxle_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:small_buffer": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_caboosestyle": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_coalburner": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_diesel": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_long": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_oilburner": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_streamlined": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:smokestack_woodburner": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:track_acacia": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_acacia_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_acacia_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_bamboo_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_birch_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_blackstone_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_cherry_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_coupler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:track_create_andesite_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_create_andesite_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_crimson_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_dark_oak_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_ender_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_jungle_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_mangrove_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_monorail": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_oak_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_phantom_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_spruce_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_stripped_bamboo_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_switch_andesite": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:track_switch_brass": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:track_tieless": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_tieless_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_tieless_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped_narrow": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:track_warped_wide": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "railways:tripleaxle_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:white_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:wide_comically_large_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:wide_doubleaxle_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:wide_scotch_bogey": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_brass_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_brass_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_copper_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_copper_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_flat_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_flat_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_iron_wrapped_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_iron_wrapped_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_boiler": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_pillar": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_locometal_smokebox": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_plated_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_riveted_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "railways:yellow_slashed_locometal": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
   },
   "regions_unexplored:acacia_branch": {
     "maxWaterDepth": 14,
@@ -92300,294 +89888,6 @@
     "maxWaterDepth": 10,
     "implosionChance": 0.85
   },
-  "stonezone:c/northstar/cut_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mars_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_mars_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/cut_mars_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mars_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mars_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mars_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mercury_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_mercury_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/cut_mercury_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mercury_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mercury_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_mercury_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_moon_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_moon_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/cut_moon_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_moon_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_moon_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_moon_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_venus_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_venus_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/cut_venus_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/cut_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_venus_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_venus_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/cut_venus_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/layered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/layered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/layered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/layered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/mars_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/mercury_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/moon_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mars_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mars_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mars_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mercury_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mercury_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_mercury_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_moon_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_moon_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_moon_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_venus_stone_slab": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_venus_stone_stairs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/polished_cut_venus_stone_wall": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/small_mars_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_mars_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/small_mars_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/small_mercury_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_mercury_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/small_mercury_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/small_moon_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_moon_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/small_moon_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/small_venus_stone_brick_slab": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_venus_stone_brick_stairs": {
-    "maxWaterDepth": 60,
-    "implosionChance": 0.5
-  },
-  "stonezone:c/northstar/small_venus_stone_brick_wall": {
-    "maxWaterDepth": 76,
-    "implosionChance": 0.36666667
-  },
-  "stonezone:c/northstar/small_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:c/northstar/venus_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
   "stonezone:c/regions_unexplored/argillite_pillar": {
     "maxWaterDepth": 36,
     "implosionChance": 0.7
@@ -96612,1030 +93912,6 @@
     "maxWaterDepth": 10,
     "implosionChance": 0.85
   },
-  "stonezone:ch/northstar/angry_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/angry_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/angry_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/angry_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/blank_mars_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/blank_mercury_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/blank_moon_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/blank_venus_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/bordered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/bordered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/bordered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/bordered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/brick_bordered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/brick_bordered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/brick_bordered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/brick_bordered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/carved_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/carved_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/carved_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/carved_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/checkered_mars_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/checkered_mercury_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/checkered_moon_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/checkered_venus_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cobbled_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cobbled_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cobbled_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cobbled_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_disordered_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_disordered_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_disordered_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_disordered_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_flat_mars_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_flat_mercury_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_flat_moon_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_flat_venus_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cracked_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/creeper_mars_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/creeper_mercury_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/creeper_moon_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/creeper_venus_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/crying_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/crying_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/crying_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/crying_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/curly_mars_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/curly_mercury_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/curly_moon_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/curly_venus_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_blank_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_blank_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_blank_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_blank_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_mars_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_mercury_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_moon_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/cut_venus_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/duh_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/duh_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/duh_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/duh_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/edged_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/edged_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/edged_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/edged_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/engraved_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/engraved_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/engraved_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/engraved_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/eroded_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/eroded_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/eroded_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/eroded_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/etched_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/etched_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/etched_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/etched_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/fine_mars_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/fine_mercury_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/fine_moon_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/fine_venus_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/flat_mars_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/flat_mercury_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/flat_moon_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/flat_venus_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/glad_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/glad_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/glad_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/glad_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inlayed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inlayed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inlayed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inlayed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inscribed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inscribed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inscribed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/inscribed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/layed_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/layed_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/layed_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/layed_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/loded_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/loded_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/loded_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/loded_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mars_stone_mini_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mars_stone_pillar_top": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mars_stone_pointed_dripstone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mars_stone_scales": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/massive_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/massive_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/massive_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/massive_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mercury_stone_mini_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mercury_stone_pillar_top": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mercury_stone_pointed_dripstone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/mercury_stone_scales": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/moon_stone_mini_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/moon_stone_pillar_top": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/moon_stone_pointed_dripstone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/moon_stone_scales": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/offset_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/offset_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/offset_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/offset_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/ornate_mars_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/ornate_mercury_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/ornate_moon_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/ornate_venus_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/overlapping_mars_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/overlapping_mercury_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/overlapping_moon_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/overlapping_venus_stone_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/pillar_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/pillar_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/pillar_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/pillar_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/prismal_mars_stone_remnants": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/prismal_mercury_stone_remnants": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/prismal_moon_stone_remnants": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/prismal_venus_stone_remnants": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rough_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rough_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rough_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rough_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rounded_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rounded_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rounded_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/rounded_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/runic_carved_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/runic_carved_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/runic_carved_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/runic_carved_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sad_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sad_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sad_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sad_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sanded_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sanded_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sanded_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/sanded_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/simple_mars_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/simple_mercury_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/simple_moon_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/simple_venus_stone_pillar": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/small_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/small_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/small_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/small_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_inlayed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_inlayed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_inlayed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_inlayed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_mars_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_mercury_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_moon_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_ringed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_ringed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_ringed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_ringed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smooth_venus_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smoothed_double_inlayed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smoothed_double_inlayed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smoothed_double_inlayed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/smoothed_double_inlayed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spider_mars_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spider_mercury_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spider_moon_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spider_venus_stone_carving": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spiraled_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spiraled_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spiraled_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/spiraled_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/stacked_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/stacked_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/stacked_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/stacked_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/thick_inlayed_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/thick_inlayed_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/thick_inlayed_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/thick_inlayed_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_bordered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_bordered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_bordered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_bordered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_mars_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_mercury_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_moon_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiled_venus_stone_column": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_brick_bordered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_brick_bordered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_brick_bordered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_brick_bordered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_mars_stone_slabs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_mercury_stone_slabs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_moon_stone_slabs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_layered_venus_stone_slabs": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/tiny_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/trodden_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/trodden_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/trodden_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/trodden_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/unamused_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/unamused_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/unamused_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/unamused_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/venus_stone_mini_tiles": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/venus_stone_pillar_top": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/venus_stone_pointed_dripstone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/venus_stone_scales": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_cut_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_cut_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_cut_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_cut_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_disordered_mars_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_disordered_mercury_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_disordered_moon_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/vertical_disordered_venus_stone_bricks": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/weathered_mars_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/weathered_mercury_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/weathered_moon_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ch/northstar/weathered_venus_stone": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
   "stonezone:ch/regions_unexplored/angry_argillite": {
     "maxWaterDepth": 36,
     "implosionChance": 0.7
@@ -98339,54 +94615,6 @@
   "stonezone:ldcl/naturalist/shellstone_stove": {
     "maxWaterDepth": 10,
     "implosionChance": 0.85
-  },
-  "stonezone:ldcl/northstar/mars_stone_counter": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/mars_stone_kitchen_sink": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/mars_stone_stove": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/mercury_stone_counter": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/mercury_stone_kitchen_sink": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/mercury_stone_stove": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/moon_stone_counter": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/moon_stone_kitchen_sink": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/moon_stone_stove": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/venus_stone_counter": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/venus_stone_kitchen_sink": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
-  },
-  "stonezone:ldcl/northstar/venus_stone_stove": {
-    "maxWaterDepth": 66,
-    "implosionChance": 0.45
   },
   "stonezone:ldcl/regions_unexplored/argillite_counter": {
     "maxWaterDepth": 36,
