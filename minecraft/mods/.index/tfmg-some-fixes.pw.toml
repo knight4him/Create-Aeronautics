@@ -1,18 +1,21 @@
-filename = 'tfmgfixfuel-1.0.3.jar'
-name = 'tfmgfixfuel'
+filename = 'tfmgfixfuel-1.0.4.jar'
+name = 'tfmg-fixes'
 side = ''
-x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.0.3'
+x-prismlauncher-version-number = '1.0.4'
 
 [download]
-hash = '1f70f877de2bf77780e06910171c4c4ec4b5d21a0919ed3f80840a1f398ca915903aa534e392be19c5955516b0b4bc3d07c28ac2c35e722a11f7edcf97765893'
+hash = '35c883d0da54fc8ac188b1c0e4d8b47cbf33cb445e56dd5a5bbfe6343b40fd0f5a4740045ca53d7e40406fcdf223699d37510e0019667daf01ec162f1db6cc69'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/JHWnRy4b/versions/1OUjp7EI/tfmgfixfuel-1.0.3.jar'
+url = 'https://cdn.modrinth.com/data/JHWnRy4b/versions/NrepMM4X/tfmgfixfuel-1.0.4.jar'
 
 [update.modrinth]
 mod-id = 'JHWnRy4b'
-version = '1OUjp7EI'
+version = 'NrepMM4X'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'USgVjXsk'
+type = 'REQUIRED'

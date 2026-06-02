@@ -57,7 +57,7 @@
 			yellow_bioshroom = true
 			blue_bioshroom = true
 			green_bioshroom = true
-			mauve = true
+			wisteria = true
 
 		[types.leaves_type.silentgear]
 			netherwood = true
@@ -127,8 +127,9 @@
 			socotra = true
 			white_magnolia = true
 			willow = true
-			enchanted_birch = true
-			mauve = true
+			sky_wisteria = true
+			lavender_wisteria = true
+			salmon_wisteria = true
 
 		[types.leaves_type.chipped]
 			apple_acacia = true

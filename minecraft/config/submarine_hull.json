@@ -37800,6 +37800,62 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "create_radar:auto_pitch_controller": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "create_radar:auto_yaw_controller": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "create_radar:creative_radar_plate": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:data_link": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:fire_controller": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:identification_transponder": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:monitor": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:network_filterer": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:plane_radar": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:radar_bearing": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "create_radar:radar_dish_block": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:radar_plate_block": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:radar_receiver_block": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.85
+  },
+  "create_radar:radar_warning_receiver": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
   "create_submarine:ballast_tank": {
     "maxWaterDepth": 230,
     "implosionChance": 0.04
@@ -43736,14 +43792,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:c/regions_unexplored/mauve_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/regions_unexplored/mauve_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "everycomp:c/regions_unexplored/palm_window": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -43789,6 +43837,14 @@
     "implosionChance": 0.85
   },
   "everycomp:c/regions_unexplored/willow_window_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/regions_unexplored/wisteria_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:c/regions_unexplored/wisteria_window_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -55064,10 +55120,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/airy_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/airy_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -55089,6 +55141,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/airy_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/airy_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -55240,10 +55296,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/apple_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/apple_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -55264,15 +55316,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/apple_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/apple_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/apple_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/apple_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -55300,7 +55352,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/apple_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/apple_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/apple_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -55540,14 +55600,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/barred_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/barred_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/barred_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -55593,6 +55645,14 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/barred_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/barred_wisteria_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/barred_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -55664,10 +55724,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/basket_woven_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/basket_woven_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -55691,6 +55747,10 @@
   "everycomp:ch/regions_unexplored/basket_woven_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/basket_woven_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/basket_woven_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -55756,10 +55816,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/beach_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/beach_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -55781,6 +55837,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/beach_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/beach_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -56048,10 +56108,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/boarded_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/boarded_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -56073,6 +56129,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/boarded_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/boarded_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -56140,10 +56200,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/boxed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/boxed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -56167,6 +56223,10 @@
   "everycomp:ch/regions_unexplored/boxed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/boxed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/boxed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -56232,10 +56292,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/brick_bond_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/brick_bond_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -56259,6 +56315,10 @@
   "everycomp:ch/regions_unexplored/brick_bond_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/brick_bond_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/brick_bond_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -56324,10 +56384,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/bricky_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/bricky_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -56351,6 +56407,10 @@
   "everycomp:ch/regions_unexplored/bricky_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/bricky_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/bricky_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -56516,10 +56576,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/bundled_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/bundled_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -56543,6 +56599,10 @@
   "everycomp:ch/regions_unexplored/bundled_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/bundled_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/bundled_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -56604,10 +56664,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/carved_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/carved_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -56631,6 +56687,10 @@
   "everycomp:ch/regions_unexplored/carved_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/carved_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/carved_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -56696,10 +56756,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/center_cut_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/center_cut_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -56723,6 +56779,10 @@
   "everycomp:ch/regions_unexplored/center_cut_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/center_cut_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/center_cut_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -56788,10 +56848,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/checkered_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/checkered_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -56813,6 +56869,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/checkered_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/checkered_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -56864,10 +56924,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/cherry_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/cherry_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -56888,15 +56944,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/cherry_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/cherry_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/cherry_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/cherry_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -56924,7 +56980,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/cherry_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/cherry_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/cherry_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -57000,10 +57064,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/chipped_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/chipped_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -57027,6 +57087,10 @@
   "everycomp:ch/regions_unexplored/chipped_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/chipped_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/chipped_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -57152,14 +57216,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/circle_mauve_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/circle_mauve_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/circle_palm_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -57205,6 +57261,14 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/circle_willow_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/circle_wisteria_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/circle_wisteria_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -57273,10 +57337,6 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/classic_maple_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/classic_mauve_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -57364,10 +57424,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/classic_windowed_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/classic_windowed_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -57392,7 +57448,15 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/classic_windowed_wisteria_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/classic_windowed_yellow_bioshroom_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/classic_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -57560,10 +57624,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/cobweb_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/cobweb_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -57585,6 +57645,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/cobweb_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/cobweb_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -57652,10 +57716,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/cornered_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/cornered_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -57679,6 +57739,10 @@
   "everycomp:ch/regions_unexplored/cornered_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/cornered_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/cornered_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -57744,10 +57808,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/crated_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/crated_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -57771,6 +57831,10 @@
   "everycomp:ch/regions_unexplored/crated_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/crated_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/crated_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -57836,10 +57900,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/cross_laced_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/cross_laced_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -57863,6 +57923,10 @@
   "everycomp:ch/regions_unexplored/cross_laced_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/cross_laced_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/cross_laced_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -57928,10 +57992,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/crossed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/crossed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -57955,6 +58015,10 @@
   "everycomp:ch/regions_unexplored/crossed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/crossed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/crossed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -58116,10 +58180,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/d_sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/d_sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -58143,6 +58203,10 @@
   "everycomp:ch/regions_unexplored/d_sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/d_sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/d_sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -58208,10 +58272,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/damaged_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/damaged_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -58235,6 +58295,10 @@
   "everycomp:ch/regions_unexplored/damaged_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/damaged_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/damaged_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -58316,10 +58380,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/dead_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/dead_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -58356,6 +58416,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/dead_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/dead_line_bared_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -58369,10 +58433,6 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/dead_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/dead_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -58416,7 +58476,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/dead_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/dead_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/dead_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -58520,10 +58588,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/detailed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/detailed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -58547,6 +58611,10 @@
   "everycomp:ch/regions_unexplored/detailed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/detailed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/detailed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -58612,10 +58680,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/diagonal_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/diagonal_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -58639,6 +58703,10 @@
   "everycomp:ch/regions_unexplored/diagonal_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/diagonal_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/diagonal_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -58704,10 +58772,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/diamond_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/diamond_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -58731,6 +58795,10 @@
   "everycomp:ch/regions_unexplored/diamond_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/diamond_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/diamond_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -58796,10 +58864,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/distorted_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/distorted_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -58821,6 +58885,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/distorted_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/distorted_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -58888,10 +58956,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/double_herringbone_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/double_herringbone_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -58915,6 +58979,10 @@
   "everycomp:ch/regions_unexplored/double_herringbone_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/double_herringbone_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/double_herringbone_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -58980,10 +59048,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/dual_paneled_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/dual_paneled_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -59005,6 +59069,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/dual_paneled_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/dual_paneled_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -59072,10 +59140,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/edge_cut_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/edge_cut_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -59099,6 +59163,10 @@
   "everycomp:ch/regions_unexplored/edge_cut_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/edge_cut_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/edge_cut_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -59160,10 +59228,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/edged_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/edged_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -59187,6 +59251,10 @@
   "everycomp:ch/regions_unexplored/edged_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/edged_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/edged_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -59252,10 +59320,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/enclosed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/enclosed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -59279,6 +59343,10 @@
   "everycomp:ch/regions_unexplored/enclosed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/enclosed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/enclosed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -59440,10 +59508,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/f_sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/f_sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -59467,6 +59531,10 @@
   "everycomp:ch/regions_unexplored/f_sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/f_sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/f_sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -59532,10 +59600,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/fancy_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/fancy_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -59557,6 +59621,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/fancy_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/fancy_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -59623,10 +59691,6 @@
   "everycomp:ch/regions_unexplored/fine_maple_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/fine_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/fine_palm_planks": {
     "maxWaterDepth": 28,
@@ -59708,10 +59772,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/fine_vertical_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/fine_vertical_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -59736,6 +59796,10 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/fine_vertical_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
   "everycomp:ch/regions_unexplored/fine_vertical_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -59743,6 +59807,10 @@
   "everycomp:ch/regions_unexplored/fine_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/fine_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/fine_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -59808,10 +59876,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/firewood_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/firewood_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -59835,6 +59899,10 @@
   "everycomp:ch/regions_unexplored/firewood_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/firewood_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/firewood_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -59900,10 +59968,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/flowering_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/flowering_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -59927,6 +59991,10 @@
   "everycomp:ch/regions_unexplored/flowering_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/flowering_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/flowering_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -59992,10 +60060,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/fortified_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/fortified_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -60017,6 +60081,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/fortified_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/fortified_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -60084,10 +60152,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/framed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/framed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -60111,6 +60175,10 @@
   "everycomp:ch/regions_unexplored/framed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/framed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/framed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -60160,10 +60228,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/frosted_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/frosted_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -60184,15 +60248,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/frosted_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/frosted_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/frosted_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/frosted_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60220,7 +60284,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/frosted_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/frosted_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/frosted_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60300,10 +60372,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/gated_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/gated_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -60325,6 +60393,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/gated_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/gated_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -60392,10 +60464,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/glass_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/glass_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -60417,6 +60485,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/glass_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/glass_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -60472,10 +60544,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/golden_apple_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/golden_apple_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -60496,15 +60564,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_apple_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_apple_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/golden_apple_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/golden_apple_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60532,7 +60600,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_apple_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_apple_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/golden_apple_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60624,10 +60700,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/golden_barred_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/golden_barred_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -60649,6 +60721,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/golden_barred_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/golden_barred_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -60712,10 +60788,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/golden_cherry_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/golden_cherry_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -60736,15 +60808,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_cherry_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_cherry_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/golden_cherry_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/golden_cherry_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60772,7 +60844,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_cherry_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_cherry_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/golden_cherry_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60804,10 +60884,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/golden_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/golden_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -60824,15 +60900,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/golden_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/golden_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -60860,7 +60936,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/golden_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/golden_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/golden_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -61100,14 +61184,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/heavy_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/heavy_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/heavy_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -61153,6 +61229,14 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/heavy_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/heavy_wisteria_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/heavy_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -61224,10 +61308,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/herringbone_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/herringbone_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61251,6 +61331,10 @@
   "everycomp:ch/regions_unexplored/herringbone_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/herringbone_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/herringbone_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -61316,10 +61400,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/hewn_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/hewn_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61343,6 +61423,10 @@
   "everycomp:ch/regions_unexplored/hewn_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/hewn_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/hewn_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -61404,10 +61488,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/i_sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/i_sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61431,6 +61511,10 @@
   "everycomp:ch/regions_unexplored/i_sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/i_sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/i_sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -61496,10 +61580,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/iron_barred_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/iron_barred_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -61521,6 +61601,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/iron_barred_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/iron_barred_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -61684,10 +61768,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/k_sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/k_sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61711,6 +61791,10 @@
   "everycomp:ch/regions_unexplored/k_sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/k_sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/k_sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -61872,10 +61956,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/knotted_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/knotted_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61899,6 +61979,10 @@
   "everycomp:ch/regions_unexplored/knotted_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/knotted_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/knotted_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -61960,10 +62044,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/l_sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/l_sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -61987,6 +62067,10 @@
   "everycomp:ch/regions_unexplored/l_sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/l_sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/l_sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -62052,10 +62136,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/laced_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/laced_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -62079,6 +62159,10 @@
   "everycomp:ch/regions_unexplored/laced_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/laced_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/laced_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -62240,10 +62324,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/layered_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/layered_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -62267,6 +62347,10 @@
   "everycomp:ch/regions_unexplored/layered_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/layered_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/layered_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -62332,10 +62416,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/leafy_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/leafy_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -62357,6 +62437,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/leafy_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/leafy_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -62420,10 +62504,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/lumpy_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/lumpy_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -62447,6 +62527,10 @@
   "everycomp:ch/regions_unexplored/lumpy_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/lumpy_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/lumpy_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -62496,10 +62580,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/magenta_flower_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/magenta_flower_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -62520,15 +62600,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/magenta_flower_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/magenta_flower_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/magenta_flower_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/magenta_flower_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -62556,7 +62636,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/magenta_flower_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/magenta_flower_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/magenta_flower_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -62776,106 +62864,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/mauve_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_barrel": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/mauve_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_crate": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/mauve_diamond_bordered_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_diamond_bordered_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_horizontal_lined_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_horizontal_lined_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_large_diamond_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_large_diamond_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_line_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_line_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_ornate_bared_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_ornate_bared_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_planks_mosaic": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/mauve_planks_panel": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/mauve_planks_shavings": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/mauve_snowflake_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_snowflake_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_wall_torch": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_woven_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/mauve_woven_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/meshed_alpha_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -62936,10 +62924,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/meshed_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/meshed_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -62961,6 +62945,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/meshed_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/meshed_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -63028,10 +63016,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/mixed_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/mixed_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -63055,6 +63039,10 @@
   "everycomp:ch/regions_unexplored/mixed_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/mixed_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/mixed_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -63180,14 +63168,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/nailed_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:ch/regions_unexplored/nailed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/nailed_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -63235,6 +63215,14 @@
   "everycomp:ch/regions_unexplored/nailed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/nailed_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:ch/regions_unexplored/nailed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/nailed_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -63304,10 +63292,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/natural_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/natural_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -63331,6 +63315,10 @@
   "everycomp:ch/regions_unexplored/natural_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/natural_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/natural_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -63380,10 +63368,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/orange_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/orange_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -63404,11 +63388,11 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/orange_magnolia_leaves": {
+  "everycomp:ch/regions_unexplored/orange_lavender_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/orange_mauve_leaves": {
+  "everycomp:ch/regions_unexplored/orange_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -63436,7 +63420,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/orange_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/orange_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/orange_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -63636,18 +63628,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/overgrown_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/overgrown_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:ch/regions_unexplored/overgrown_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/overgrown_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -63717,6 +63697,18 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/overgrown_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/overgrown_wisteria_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/overgrown_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:ch/regions_unexplored/overgrown_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -63892,10 +63884,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/paneled_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/paneled_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -63917,6 +63905,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/paneled_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/paneled_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -63984,10 +63976,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/paper_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/paper_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -64009,6 +63997,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/paper_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/paper_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -64072,10 +64064,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/patient_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/patient_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -64099,6 +64087,10 @@
   "everycomp:ch/regions_unexplored/patient_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/patient_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/patient_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -64164,10 +64156,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/pegged_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/pegged_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -64191,6 +64179,10 @@
   "everycomp:ch/regions_unexplored/pegged_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/pegged_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/pegged_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -64456,10 +64448,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/planked_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/planked_palm_log": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -64483,6 +64471,10 @@
   "everycomp:ch/regions_unexplored/planked_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/planked_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/planked_yellow_bioshroom_log": {
     "maxWaterDepth": 24,
@@ -64548,10 +64540,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/pointless_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/pointless_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -64573,6 +64561,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/pointless_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/pointless_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -64640,10 +64632,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/polished_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/polished_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -64667,6 +64655,10 @@
   "everycomp:ch/regions_unexplored/polished_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/polished_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/polished_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -64732,10 +64724,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/pressed_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/pressed_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -64757,6 +64745,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/pressed_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/pressed_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -64824,10 +64816,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/railed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/railed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -64851,6 +64839,10 @@
   "everycomp:ch/regions_unexplored/railed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/railed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/railed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -64900,10 +64892,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/red_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/red_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -64924,11 +64912,11 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/red_magnolia_leaves": {
+  "everycomp:ch/regions_unexplored/red_lavender_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/red_mauve_leaves": {
+  "everycomp:ch/regions_unexplored/red_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -64956,7 +64944,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/red_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/red_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/red_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -65196,14 +65192,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/reinforced_mauve_crate": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:ch/regions_unexplored/reinforced_mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:ch/regions_unexplored/reinforced_palm_crate": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65300,10 +65288,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/reinforced_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/reinforced_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65328,6 +65312,10 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/reinforced_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
   "everycomp:ch/regions_unexplored/reinforced_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65339,6 +65327,14 @@
   "everycomp:ch/regions_unexplored/reinforced_willow_log": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/reinforced_wisteria_crate": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/reinforced_wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:ch/regions_unexplored/reinforced_yellow_bioshroom_crate": {
     "maxWaterDepth": 28,
@@ -65408,10 +65404,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/screen_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/screen_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -65433,6 +65425,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/screen_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/screen_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -65500,10 +65496,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/secret_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/secret_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -65525,6 +65517,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/secret_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/secret_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -65592,10 +65588,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/shack_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/shack_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -65617,6 +65609,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/shack_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/shack_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -65684,10 +65680,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/shifted_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/shifted_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65711,6 +65703,10 @@
   "everycomp:ch/regions_unexplored/shifted_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/shifted_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/shifted_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -65772,10 +65768,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/sign_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/sign_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65799,6 +65791,10 @@
   "everycomp:ch/regions_unexplored/sign_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/sign_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/sign_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -65864,10 +65860,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/slanted_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/slanted_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -65891,6 +65883,10 @@
   "everycomp:ch/regions_unexplored/slanted_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/slanted_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/slanted_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -65956,10 +65952,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/sliding_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/sliding_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -65981,6 +65973,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/sliding_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/sliding_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -66048,10 +66044,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/slotted_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/slotted_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -66073,6 +66065,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/slotted_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/slotted_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -66140,10 +66136,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/smooth_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/smooth_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -66167,6 +66159,10 @@
   "everycomp:ch/regions_unexplored/smooth_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/smooth_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/smooth_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -66332,10 +66328,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/solid_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/solid_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -66357,6 +66349,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/solid_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/solid_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -66484,14 +66480,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/square_mauve_glass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/square_mauve_glass_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/square_palm_glass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -66537,6 +66525,14 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/square_willow_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/square_wisteria_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/square_wisteria_glass_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -66608,10 +66604,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/stacked_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/stacked_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -66635,6 +66627,10 @@
   "everycomp:ch/regions_unexplored/stacked_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/stacked_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/stacked_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -66696,10 +66692,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/stern_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/stern_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -66723,6 +66715,10 @@
   "everycomp:ch/regions_unexplored/stern_stripped_willow_log": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/stern_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/stern_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
@@ -66788,10 +66784,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/supported_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/supported_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -66813,6 +66805,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/supported_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/supported_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -66880,10 +66876,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/suspicious_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/suspicious_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -66905,6 +66897,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/suspicious_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/suspicious_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -66972,10 +66968,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/thin_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/thin_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -66999,6 +66991,10 @@
   "everycomp:ch/regions_unexplored/thin_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/thin_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/thin_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -67064,10 +67060,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/tile_windowed_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/tile_windowed_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -67089,6 +67081,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/tile_windowed_willow_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/tile_windowed_wisteria_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -67216,14 +67212,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/tiled_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/tiled_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/tiled_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -67271,6 +67259,14 @@
   "everycomp:ch/regions_unexplored/tiled_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/tiled_wisteria_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/tiled_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/tiled_yellow_bioshroom_door": {
     "maxWaterDepth": 14,
@@ -67340,10 +67336,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/twisted_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/twisted_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -67365,6 +67357,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/twisted_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/twisted_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -67432,10 +67428,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/versailles_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/versailles_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -67459,6 +67451,10 @@
   "everycomp:ch/regions_unexplored/versailles_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/versailles_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/versailles_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -67524,10 +67520,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/vertical_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/vertical_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -67551,6 +67543,10 @@
   "everycomp:ch/regions_unexplored/vertical_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/vertical_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/vertical_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -67616,10 +67612,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/vertically_railed_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/vertically_railed_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -67643,6 +67635,10 @@
   "everycomp:ch/regions_unexplored/vertically_railed_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/vertically_railed_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/vertically_railed_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -67708,10 +67704,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/vined_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/vined_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -67733,6 +67725,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/vined_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/vined_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -67800,10 +67796,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/warted_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/warted_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -67825,6 +67817,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/warted_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/warted_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -67892,10 +67888,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/whirlwind_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/whirlwind_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -67919,6 +67911,10 @@
   "everycomp:ch/regions_unexplored/whirlwind_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/whirlwind_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/whirlwind_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -67968,10 +67964,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/white_flower_enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/white_flower_eucalyptus_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
@@ -67992,15 +67984,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/white_flower_lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/white_flower_magnolia_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/white_flower_maple_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/white_flower_mauve_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -68028,7 +68020,15 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/white_flower_salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
   "everycomp:ch/regions_unexplored/white_flower_silver_birch_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/white_flower_sky_wisteria_leaves": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
@@ -68108,10 +68108,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/wickered_mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/wickered_palm_planks": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -68135,6 +68131,10 @@
   "everycomp:ch/regions_unexplored/wickered_willow_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wickered_wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:ch/regions_unexplored/wickered_yellow_bioshroom_planks": {
     "maxWaterDepth": 28,
@@ -68360,14 +68360,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/windowed_mauve_door": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:ch/regions_unexplored/windowed_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/windowed_palm_door": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -68413,6 +68405,14 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/windowed_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/windowed_wisteria_door": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/windowed_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -68480,10 +68480,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/wise_stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:ch/regions_unexplored/wise_stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -68508,9 +68504,113 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
+  "everycomp:ch/regions_unexplored/wise_stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
   "everycomp:ch/regions_unexplored/wise_stripped_yellow_bioshroom_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_barrel": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_crate": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_diamond_bordered_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_diamond_bordered_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_horizontal_lined_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_horizontal_lined_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_large_diamond_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_large_diamond_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_line_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_line_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_ornate_bared_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_ornate_bared_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_planks_mosaic": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_planks_panel": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_planks_shavings": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:ch/regions_unexplored/wisteria_snowflake_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_snowflake_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_wall_torch": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_woven_glass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/wisteria_woven_glass_pane": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/woven_alpha_trapdoor": {
     "maxWaterDepth": 16,
@@ -68572,10 +68672,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:ch/regions_unexplored/woven_mauve_trapdoor": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
   "everycomp:ch/regions_unexplored/woven_palm_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -68597,6 +68693,10 @@
     "implosionChance": 0.85
   },
   "everycomp:ch/regions_unexplored/woven_willow_trapdoor": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "everycomp:ch/regions_unexplored/woven_wisteria_trapdoor": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
@@ -72268,10 +72368,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/carved_mauve_planks": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:crwo/regions_unexplored/carved_palm_planks": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -72295,6 +72391,10 @@
   "everycomp:crwo/regions_unexplored/carved_willow_planks": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/carved_wisteria_planks": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:crwo/regions_unexplored/carved_yellow_bioshroom_planks": {
     "maxWaterDepth": 24,
@@ -72360,10 +72460,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/chiseled_mauve_bookshelf": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:crwo/regions_unexplored/chiseled_palm_bookshelf": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -72387,6 +72483,10 @@
   "everycomp:crwo/regions_unexplored/chiseled_willow_bookshelf": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/chiseled_wisteria_bookshelf": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:crwo/regions_unexplored/chiseled_yellow_bioshroom_bookshelf": {
     "maxWaterDepth": 24,
@@ -73232,90 +73332,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/mauve_barrel": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_beehive": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_boards": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_bookshelf": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/regions_unexplored/mauve_chest": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:crwo/regions_unexplored/mauve_crafter": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_crafting_table": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_ladder": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "everycomp:crwo/regions_unexplored/mauve_lantern": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_lantern_block": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_lectern": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_log_bundle": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_mosaic": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_mosaic_slab": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_mosaic_stairs": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:crwo/regions_unexplored/mauve_panels": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_pillar": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_tile_slab": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "everycomp:crwo/regions_unexplored/mauve_tile_stairs": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "everycomp:crwo/regions_unexplored/mauve_tiles": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:crwo/regions_unexplored/palm_barrel": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -73712,10 +73728,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/smooth_mauve_boards": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:crwo/regions_unexplored/smooth_palm_boards": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -73739,6 +73751,10 @@
   "everycomp:crwo/regions_unexplored/smooth_willow_boards": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/smooth_wisteria_boards": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:crwo/regions_unexplored/smooth_yellow_bioshroom_boards": {
     "maxWaterDepth": 24,
@@ -73888,10 +73904,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/soul_mauve_campfire": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
   "everycomp:crwo/regions_unexplored/soul_palm_campfire": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -73913,6 +73925,10 @@
     "implosionChance": 0.85
   },
   "everycomp:crwo/regions_unexplored/soul_willow_campfire": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/soul_wisteria_campfire": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
@@ -73976,10 +73992,6 @@
     "maxWaterDepth": 14,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/stripped_mauve_log_bundle": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
   "everycomp:crwo/regions_unexplored/stripped_palm_log_bundle": {
     "maxWaterDepth": 24,
     "implosionChance": 0.8
@@ -74003,6 +74015,10 @@
   "everycomp:crwo/regions_unexplored/stripped_willow_log_bundle": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/stripped_wisteria_log_bundle": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:crwo/regions_unexplored/stripped_yellow_bioshroom_log_bundle": {
     "maxWaterDepth": 24,
@@ -74068,10 +74084,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "everycomp:crwo/regions_unexplored/trapped_mauve_chest": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "everycomp:crwo/regions_unexplored/trapped_palm_chest": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -74095,6 +74107,10 @@
   "everycomp:crwo/regions_unexplored/trapped_willow_chest": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/trapped_wisteria_chest": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "everycomp:crwo/regions_unexplored/trapped_yellow_bioshroom_chest": {
     "maxWaterDepth": 28,
@@ -74183,6 +74199,90 @@
   "everycomp:crwo/regions_unexplored/willow_tiles": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_barrel": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_beehive": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_boards": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_bookshelf": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_campfire": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_chest": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_crafter": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_crafting_table": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_ladder": {
+    "maxWaterDepth": 4,
+    "implosionChance": 0.85
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_lantern": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_lantern_block": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_lectern": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_log_bundle": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_mosaic": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_mosaic_slab": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_mosaic_stairs": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_panels": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_pillar": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_tile_slab": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_tile_stairs": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "everycomp:crwo/regions_unexplored/wisteria_tiles": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "everycomp:crwo/regions_unexplored/yellow_bioshroom_barrel": {
     "maxWaterDepth": 24,
@@ -77925,6 +78025,10 @@
     "implosionChance": 0.85
   },
   "herbalbrews:yerba_mate_tea_block": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "itoneo:example_block": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -86880,18 +86984,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "regions_unexplored:enchanted_birch_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:enchanted_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:enchanted_birch_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "regions_unexplored:eucalyptus_branch": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
@@ -87452,6 +87544,22 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "regions_unexplored:lavender_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:lavender_wisteria_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:lavender_wisteria_shrub": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:lavender_wisteria_vines": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "regions_unexplored:light_blue_painted_planks": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
@@ -87683,82 +87791,6 @@
   "regions_unexplored:maple_wood": {
     "maxWaterDepth": 14,
     "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_branch": {
-    "maxWaterDepth": 14,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_button": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_door": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:mauve_fence": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:mauve_fence_gate": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_hanging_sign": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_leaves": {
-    "maxWaterDepth": 2,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_log": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:mauve_planks": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:mauve_pressure_plate": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_sign": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_slab": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:mauve_stairs": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:mauve_trapdoor": {
-    "maxWaterDepth": 21,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:mauve_wall_hanging_sign": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_wall_sign": {
-    "maxWaterDepth": 7,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mauve_wood": {
-    "maxWaterDepth": 24,
-    "implosionChance": 0.8
   },
   "regions_unexplored:meadow_sage": {
     "maxWaterDepth": 1,
@@ -88256,10 +88288,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "regions_unexplored:potted_enchanted_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "regions_unexplored:potted_eucalyptus_sapling": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -88320,6 +88348,10 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "regions_unexplored:potted_lavender_wisteria_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "regions_unexplored:potted_light_blue_snowbelle": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -88345,10 +88377,6 @@
     "implosionChance": 0.85
   },
   "regions_unexplored:potted_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_mauve_sapling": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -88432,11 +88460,23 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "regions_unexplored:potted_salmon_poppy": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "regions_unexplored:potted_salmon_poppy_bush": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "regions_unexplored:potted_salmon_wisteria_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "regions_unexplored:potted_silver_birch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:potted_sky_wisteria_sapling": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -88680,7 +88720,27 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
+  "regions_unexplored:salmon_poppy": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "regions_unexplored:salmon_poppy_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:salmon_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:salmon_wisteria_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:salmon_wisteria_shrub": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:salmon_wisteria_vines": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
@@ -88750,6 +88810,22 @@
   },
   "regions_unexplored:silver_birch_wood": {
     "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:sky_wisteria_leaves": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:sky_wisteria_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:sky_wisteria_shrub": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:sky_wisteria_vines": {
+    "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
   "regions_unexplored:small_desert_shrub": {
@@ -88992,14 +89068,6 @@
     "maxWaterDepth": 16,
     "implosionChance": 0.85
   },
-  "regions_unexplored:stripped_mauve_log": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_mauve_wood": {
-    "maxWaterDepth": 28,
-    "implosionChance": 0.76666665
-  },
   "regions_unexplored:stripped_palm_log": {
     "maxWaterDepth": 28,
     "implosionChance": 0.76666665
@@ -89051,6 +89119,14 @@
   "regions_unexplored:stripped_willow_wood": {
     "maxWaterDepth": 16,
     "implosionChance": 0.85
+  },
+  "regions_unexplored:stripped_wisteria_log": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "regions_unexplored:stripped_wisteria_wood": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
   },
   "regions_unexplored:stripped_yellow_bioshroom_hyphae": {
     "maxWaterDepth": 28,
@@ -89223,6 +89299,70 @@
   "regions_unexplored:windswept_grass": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_branch": {
+    "maxWaterDepth": 14,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_button": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_door": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "regions_unexplored:wisteria_fence": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "regions_unexplored:wisteria_fence_gate": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_log": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
+  },
+  "regions_unexplored:wisteria_planks": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "regions_unexplored:wisteria_pressure_plate": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_sign": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_slab": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "regions_unexplored:wisteria_stairs": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.76666665
+  },
+  "regions_unexplored:wisteria_trapdoor": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.82
+  },
+  "regions_unexplored:wisteria_wall_hanging_sign": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_wall_sign": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "regions_unexplored:wisteria_wood": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.8
   },
   "regions_unexplored:yellow_bioshroom": {
     "maxWaterDepth": 1,
@@ -100023,6 +100163,22 @@
   "tracks:track_mount": {
     "maxWaterDepth": 39,
     "implosionChance": 0.67
+  },
+  "trmt:eroded_coarse_dirt": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "trmt:eroded_dirt": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "trmt:eroded_grass_block": {
+    "maxWaterDepth": 7,
+    "implosionChance": 0.85
+  },
+  "trmt:eroded_sand": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
   },
   "vinery:acacia_lattice": {
     "maxWaterDepth": 16,

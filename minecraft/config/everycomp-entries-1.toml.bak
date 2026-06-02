@@ -57,7 +57,7 @@
 			yellow_bioshroom = true
 			blue_bioshroom = true
 			green_bioshroom = true
-			wisteria = true
+			mauve = true
 
 		[types.leaves_type.silentgear]
 			netherwood = true
@@ -127,9 +127,8 @@
 			socotra = true
 			white_magnolia = true
 			willow = true
-			sky_wisteria = true
-			lavender_wisteria = true
-			salmon_wisteria = true
+			enchanted_birch = true
+			mauve = true
 
 		[types.leaves_type.chipped]
 			apple_acacia = true
@@ -403,6 +402,9 @@
 			golden_barred_trapdoor = true
 			nailed_log = true
 
+		[entries.wood_type.regions_unexplored]
+			branch = true
+
 		[entries.leaves_type.chipped]
 			frosted_leaves = true
 			orange_leaves = true
@@ -415,6 +417,9 @@
 			apple_leaves = true
 			golden_apple_leaves = true
 			white_flower_leaves = true
+
+		[entries.leaves_type.regions_unexplored]
+			shrub = true
 
 		[entries.stone_type.create]
 			cut_wall = true
