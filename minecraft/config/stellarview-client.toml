@@ -44,9 +44,9 @@
 
 			["Stellar View Client Config"."Overworld Config".client.overworld]
 				#Replaces the Vanilla Overworld sky with Stellar View sky
-				replace_vanilla = true
+				replace_vanilla = false
 				#Prioritizes config over information from resourcepacks
-				config_priority = false
+				config_priority = true
 				#Stars will always be visible, even during daytime
 				stars_always_visible = false
 				#Chance of a meteor shower happening each day

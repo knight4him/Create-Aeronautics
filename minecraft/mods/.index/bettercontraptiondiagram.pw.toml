@@ -1,0 +1,27 @@
+filename = 'better_contraption_diagram-1.0.1.jar'
+name = 'BetterContraptionDiagram'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.1'
+
+[download]
+hash = '7f50b928c4c7620755d332ae75a80f31bdabbe5d63195365c5f361e539290b64be306b28a23d8c9c076f08164a276f7cd4274f46930d4ee27201ce46871e5c06'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/DX0OFVMh/versions/MH8czn7O/better_contraption_diagram-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'DX0OFVMh'
+version = 'MH8czn7O'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'UjX6dr61'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+version = 'YhZLrAFC'
