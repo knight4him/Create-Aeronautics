@@ -1,4 +1,0 @@
-#Gameplay settings
-[gameplay]
-	#Set to false if you don't want the mod to send messages to the player.
-	sendMessages = true
