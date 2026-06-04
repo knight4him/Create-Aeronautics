@@ -37680,6 +37680,10 @@
     "maxWaterDepth": 100,
     "implosionChance": 0.05
   },
+  "create_dragons_plus:dragon_breath_cauldron": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.78
+  },
   "create_dragons_plus:fluid_hatch": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
@@ -43537,94 +43541,6 @@
     "implosionChance": 0.85
   },
   "everycomp:c/beachparty/palm_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/aspen_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/aspen_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/baobab_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/baobab_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/chestnut_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/chestnut_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/cypress_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/cypress_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/ebony_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/ebony_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/fan_palm_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/fan_palm_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/fir_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/fir_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/larch_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/larch_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/swamp_cypress_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/swamp_cypress_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/swamp_oak_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/bloomingnature/swamp_oak_window_pane": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/meadow/pine_window": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "everycomp:c/meadow/pine_window_pane": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },

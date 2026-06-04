@@ -2,7 +2,7 @@
 			#Makes the sky static (compatible with shaders)
 			static_sky = false
 			#Renders stars and dust clouds using instancing
-			instancing = true
+			instancing = false
 			#Changes the order in which vertices used in static_sky are built
 			alt_vertex_build_order = false
 			#False - Positions along orbits, supernovae and meteor effects are affected when /time set command is used | True - Only planetary rotation is affected, everything else is unaffected (good choice if you want to use /time set 0 command without the sky reverting back to how it looked at tick 0)

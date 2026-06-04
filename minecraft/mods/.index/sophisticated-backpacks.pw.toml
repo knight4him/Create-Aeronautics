@@ -1,32 +1,20 @@
-filename = 'sophisticatedbackpacks-1.21.1-3.25.51.1801.jar'
+filename = 'sophisticatedbackpacks-1.21.1-3.25.52.1810.jar'
 name = 'Sophisticated Backpacks'
 side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-3.25.51.1801'
+x-prismlauncher-version-number = '1.21.1-3.25.52.1810'
 
 [download]
-hash = '45a75790d898dc6be0b072017bba3540d2e8901be26561eb4dc70286b84389d73de9f4297f3667d1424b44fda4f866a65d924831d49f384e713d0772d951c7ee'
+hash = '45027d7cd68f049e35a7fb50bbf79fb1d9c93fa5a64acacb645e8ffac8d25e0014dc793cfddcf99718f659f1ac7437ae76dcc3656ae719ef5c53ee7bb77e1f05'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/TyCTlI4b/versions/TM4ddmXL/sophisticatedbackpacks-1.21.1-3.25.51.1801.jar'
+url = 'https://cdn.modrinth.com/data/TyCTlI4b/versions/C257JEMV/sophisticatedbackpacks-1.21.1-3.25.52.1810.jar'
 
 [update.modrinth]
 mod-id = 'TyCTlI4b'
-version = 'TM4ddmXL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vvuO3ImH'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'vRYk0bv7'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'nmoqTijg'
-type = 'REQUIRED'
+version = 'C257JEMV'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'BAscRYKm'
@@ -41,9 +29,21 @@ addonId = 'b1fMg6sH'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'DMu0oBKf'
+addonId = 'nmoqTijg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vRYk0bv7'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'WRaRZdTd'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'DMu0oBKf'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'vvuO3ImH'
 type = 'OPTIONAL'

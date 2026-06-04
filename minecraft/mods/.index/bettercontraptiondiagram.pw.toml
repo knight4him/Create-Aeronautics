@@ -1,27 +1,27 @@
-filename = 'better_contraption_diagram-1.0.1.jar'
-name = 'BetterContraptionDiagram'
-side = 'client'
+filename = 'better_contraption_diagram-1.0.1-a.jar'
+name = 'Better Contraption Diagram'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '1.0.1'
+x-prismlauncher-version-number = '1.0.1-a'
 
 [download]
-hash = '7f50b928c4c7620755d332ae75a80f31bdabbe5d63195365c5f361e539290b64be306b28a23d8c9c076f08164a276f7cd4274f46930d4ee27201ce46871e5c06'
+hash = '5c5c1190a72310941bcb567d5c5854b88db3ae691c27298dd54c5f60df8f31e551c6c21e7ff89efb4d8e03fe96d12ae3b4f3bbe43cf15950c829e00fd25e219e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/DX0OFVMh/versions/MH8czn7O/better_contraption_diagram-1.0.1.jar'
+url = 'https://cdn.modrinth.com/data/DX0OFVMh/versions/4x1ZtDYj/better_contraption_diagram-1.0.1-a.jar'
 
 [update.modrinth]
 mod-id = 'DX0OFVMh'
-version = 'MH8czn7O'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
-type = 'REQUIRED'
-version = 'UjX6dr61'
+version = '4x1ZtDYj'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'oWaK0Q19'
 type = 'REQUIRED'
 version = 'YhZLrAFC'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'LNytGWDc'
+type = 'REQUIRED'
+version = 'UjX6dr61'
