@@ -9,3 +9,35 @@ compressedTankCapacity = 10000
 # Default: 10000
 # Range: 1 ~ 90000
 fluidPackageCapacity = 10000
+#Enables smart faucet
+smartFaucetEnabled = true
+#Enables faucet
+faucetEnabled = true
+#Enables multi-fluid tank
+multiFluidTankEnabled = true
+#Enables horizontal multi-fluid tank
+horizontalMultiFluidTankEnabled = true
+#Enables multi-fluid access port
+multiFluidAccessPortEnabled = true
+#Enables smart hopper
+smartHopperEnabled = true
+#Enables fluid pump
+fluidPumpEnabled = true
+#The maximum distance a fluid pump can push or pull fluids on either side
+# Default: 24
+# Range: > 1
+fluidPumpRange = 24
+#Enables infinite fluid tank
+infiniteFluidTankEnabled = true
+#Enables water containing copper casing
+waterContainingCopperCasingEnabled = true
+#Enables copper basin
+copperBasinEnabled = true
+#Enables mechanical fluid gun
+mechanicalFluidGunEnabled = true
+#Enables hand pointer
+handPointerEnabled = true
+#Enables advanced logistics network integration (fluid packager, fluid packages, compressed tank, and Create logistics mixins)
+advancedLogisticsNetworkEnabled = true
+#Enables fluid hatch
+fluidHatchEnabled = true

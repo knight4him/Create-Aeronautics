@@ -1,0 +1,22 @@
+filename = 'coldsweat_altitude-0.6.3.jar'
+name = 'Cold Sweat: Altitude'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.6.3'
+
+[download]
+hash = 'b60d204e373a54d55ecc97b3f27fd7388d899bf32b327cdb16d7398a6730fbd608a5fe79d3442e57dc9f79c66de05cc1bb5e910f96c073b5208144e0f2a68929'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/uicjJQyO/versions/G9Z54AV9/coldsweat_altitude-0.6.3.jar'
+
+[update.modrinth]
+mod-id = 'uicjJQyO'
+version = 'G9Z54AV9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'uXhSmPjd'
+type = 'REQUIRED'
+version = 'Hx2FM8dR'

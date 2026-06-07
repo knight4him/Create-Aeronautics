@@ -37752,6 +37752,10 @@
     "maxWaterDepth": 86,
     "implosionChance": 0.28
   },
+  "create_enchantment_industry:classic_blaze_enchanter": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.28
+  },
   "create_enchantment_industry:experience": {
     "maxWaterDepth": 100,
     "implosionChance": 0.05
@@ -37896,9 +37900,21 @@
     "maxWaterDepth": 180,
     "implosionChance": 0.07
   },
+  "create_submarine:poulis": {
+    "maxWaterDepth": 115,
+    "implosionChance": 0.05
+  },
   "create_submarine:submarine_liana": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
+  },
+  "create_submarine:submarine_propeller": {
+    "maxWaterDepth": 115,
+    "implosionChance": 0.05
+  },
+  "create_submarine:underwater_mine": {
+    "maxWaterDepth": 115,
+    "implosionChance": 0.05
   },
   "create_submarine:water_thruster": {
     "maxWaterDepth": 220,
@@ -43003,50 +43019,6 @@
   "createmetallurgy:yellow_light_bulb": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
-  },
-  "createmetalwork:molten_andesite": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_andesite_alloy": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_brass": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_bronze": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_copper": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_gold": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_iron": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_netherite": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_steel": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_tin": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
-  },
-  "createmetalwork:molten_zinc": {
-    "maxWaterDepth": 100,
-    "implosionChance": 0.05
   },
   "createpropulsion:cable": {
     "maxWaterDepth": 39,
@@ -72272,6 +72244,10 @@
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
+  "fluidlogistics:fluid_hatch": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
   "fluidlogistics:fluid_packager": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
@@ -72289,6 +72265,10 @@
     "implosionChance": 0.6
   },
   "fluidlogistics:infinite_fluid_tank": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.6
+  },
+  "fluidlogistics:mechanical_fluid_gun": {
     "maxWaterDepth": 48,
     "implosionChance": 0.6
   },
